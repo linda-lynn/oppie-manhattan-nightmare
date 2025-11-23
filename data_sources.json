@@ -1,0 +1,166 @@
+{
+    "google_scholar_queries": [
+        "nuclear fusion reactor design",
+        "ITER tokamak physics",
+        "inertial confinement fusion",
+        "nuclear medicine PET SPECT imaging",
+        "radiotherapy nuclear medicine",
+        "nuclear waste transmutation",
+        "nuclear waste reprocessing",
+        "geological disposal nuclear waste",
+        "quantum computing nuclear physics simulation",
+        "quantum algorithm nuclear reactions",
+        "nuclear shell model theory",
+        "nuclear structure ab initio",
+        "neutron transport theory",
+        "neutron cross sections evaluation",
+        "alpha beta gamma decay mechanisms",
+        "nuclear reaction cross sections",
+        "reactor physics neutron multiplication",
+        "critical mass calculations",
+        "fission yield calculations",
+        "nuclear data evaluation"
+    ],
+    "mit_ocw_courses": [
+        "https://ocw.mit.edu/courses/22-01-introduction-to-nuclear-engineering-and-ionizing-radiation-fall-2016/",
+        "https://ocw.mit.edu/courses/22-05-neutron-science-and-reactor-physics-fall-2009/"
+    ],
+    "nature_keywords": [
+        "nuclear physics",
+        "fusion energy",
+        "nuclear medicine",
+        "quantum computing",
+        "nuclear waste",
+        "quantum mechanics nuclear physics",
+        "quantum field theory nuclear",
+        "quantum entanglement nuclear reactions"
+    ],
+    "new_scientist_keywords": [
+        "quantum mechanics",
+        "quantum computing nuclear physics",
+        "quantum field theory",
+        "nuclear physics quantum",
+        "quantum simulation nuclear",
+        "quantum entanglement physics"
+    ],
+    "researchgate_papers": [],
+    "iaea_nuclides": [
+        "U-235",
+        "U-238",
+        "Pu-239",
+        "Pu-240",
+        "Pu-241",
+        "Th-232",
+        "H-1",
+        "H-2",
+        "H-3",
+        "He-3",
+        "He-4",
+        "Li-6",
+        "Li-7",
+        "B-10",
+        "B-11",
+        "C-12",
+        "C-14",
+        "N-14",
+        "O-16",
+        "Fe-56",
+        "Gd-155",
+        "Gd-157",
+        "Xe-135",
+        "Sm-149",
+        "Cd-113"
+    ],
+    "import_schedule": "weekly",
+    "max_results_per_query": 30,
+    "cutting_edge_domains": {
+        "nuclear_fusion": {
+            "enabled": true,
+            "queries": [
+                "ITER tokamak fusion reactor",
+                "inertial confinement fusion",
+                "magnetic confinement fusion",
+                "plasma physics nuclear fusion"
+            ]
+        },
+        "nuclear_medicine": {
+            "enabled": true,
+            "queries": [
+                "PET SPECT nuclear medicine imaging",
+                "radiotherapy nuclear medicine",
+                "radioisotope medical applications"
+            ]
+        },
+        "waste_management": {
+            "enabled": true,
+            "queries": [
+                "nuclear waste transmutation",
+                "nuclear waste reprocessing",
+                "geological disposal nuclear waste"
+            ]
+        },
+        "quantum_computing": {
+            "enabled": true,
+            "queries": [
+                "quantum computing nuclear physics simulation",
+                "quantum algorithm nuclear physics",
+                "quantum simulation nuclear reactions"
+            ]
+        },
+        "quantum_mechanics": {
+            "enabled": true,
+            "queries": [
+                "quantum mechanics nuclear structure",
+                "schrödinger equation nuclear physics",
+                "quantum tunneling nuclear reactions",
+                "wave function nuclear physics",
+                "uncertainty principle nuclear"
+            ]
+        },
+        "quantum_field_theory": {
+            "enabled": true,
+            "queries": [
+                "quantum field theory nuclear physics",
+                "QCD nuclear physics",
+                "quantum chromodynamics nuclear",
+                "feynman diagram nuclear reactions",
+                "nuclear force quantum field theory"
+            ]
+        }
+    },
+    "fundamental_domains": {
+        "nuclear_structure": {
+            "enabled": true,
+            "queries": [
+                "nuclear shell model",
+                "nuclear structure theory",
+                "magic numbers nuclear physics"
+            ]
+        },
+        "nuclear_reactions": {
+            "enabled": true,
+            "queries": [
+                "nuclear reaction mechanisms",
+                "neutron capture reactions",
+                "fission fusion reactions"
+            ]
+        },
+        "neutron_physics": {
+            "enabled": true,
+            "queries": [
+                "neutron transport theory",
+                "neutron cross sections",
+                "neutron moderation"
+            ]
+        },
+        "decay_processes": {
+            "enabled": true,
+            "queries": [
+                "alpha beta gamma decay",
+                "nuclear decay chains",
+                "radioactive decay theory"
+            ]
+        }
+    }
+}
+

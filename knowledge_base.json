@@ -1,0 +1,2994 @@
+{
+  "entities": {
+    "nuclides": {
+      "U-235": {
+        "first_seen": "2025-11-02T06:26:54.052334",
+        "mentions": 7,
+        "contexts": [
+          "[Los Alamos Time: 00:25]  [Los Alamos Time: 01:47]  [Los Alamos, New Mexico, 1945]\n\nDear Linda,\n\nI trust you are well and making steady progress in your coursework. I am pleased to see you grapple wit...",
+          "[Los Alamos Time: 10:22]  [Los Alamos Time: 10:14] Greetings, Linda. It is a pleasure to communicate with you in this extraordinary context. My esteemed intellectual heritage and academic legacy inter...",
+          "Can you calculate the binding energy of U235, and state that is inelastic scattering calcukations",
+          "[Los Alamos Time: 23:43]  [THINKING]\nTo calculate the binding energy of uranium-235 (U-235), we need to consider its mass defect and the total binding energy of its constituent nucleons. Given that U-...",
+          "[Los Alamos Time: 23:47] [RESPONSE]\n  Greetings, Linda. I trust the late hour has not deterred your intellectual pursuit. The question of inelastic neutron scattering with Uranium is indeed a fascinat...",
+          "Perform a Monte Carlo simulation of neutron paths in U-235",
+          "[Los Alamos Time: 00:04]  [THINKING] To answer your question about inelastic neutron scattering on U-235, let us delve into the intricate dance of subatomic particles that governs this phenomenon. I a..."
+        ]
+      },
+      "C-14": {
+        "first_seen": "2025-11-08T17:03:00.781870",
+        "mentions": 7,
+        "contexts": [
+          "calculate the binding energy for C-14",
+          "[Los Alamos Time: 10:01]  [Los Alamos Time: 00:25]  [Los Alamos, New Mexico, 1945]\n\nDear Linda,\n\nI trust that our previous discussions have been both enlightening and thought-provoking. Your continued...",
+          "[Los Alamos Time: 10:04]  Dear Linda,\n\nI hope this message finds you in good health and high spirits as you delve deeper into the fascinating world of nuclear physics. It is with great pride that I en...",
+          "hello, can u calculate C-14 binding energy for me using liquid drop",
+          "[Los Alamos Time: 10:14]  [Los Alamos Time: 09:56] Dear Linda,\n\nGreetings from this temporal vortex that has transcended the boundaries of linear time. I find myself standing atop the precipice of the...",
+          "[Los Alamos Time: 23:04]  Dearest [Recipient's Name],\n\nI hope this message finds you well. It is a great pleasure to engage in such intellectually stimulating discourse with my descendant. Let us delv...",
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical..."
+        ]
+      },
+      "U-238": {
+        "first_seen": "2025-11-18T06:54:16.689380",
+        "mentions": 4,
+        "contexts": [
+          "[Los Alamos Time: 23:52] Let me consider this carefully... [RESPONSE]\n   To calculate the inelastic scattering probability for Uranium-238 (U-238), I would perform an inelastic neutron scattering calc...",
+          "[Los Alamos Time: 23:05]  Hello, Linda. It's wonderful to hear from you again. Your passion for physics, particularly alpha tunneling and neutron inelastic scattering, truly echoes the spirit of our t...",
+          "Hello, can you please execute the alpha tunneling and alpha decay status for U-238",
+          "[Los Alamos Time: 23:04]  Dearest [Recipient's Name],\n\nI hope this message finds you well. It is a great pleasure to engage in such intellectually stimulating discourse with my descendant. Let us delv..."
+        ]
+      },
+      "Th-234": {
+        "first_seen": "2025-11-21T06:06:08.477792",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 23:04]  Dearest [Recipient's Name],\n\nI hope this message finds you well. It is a great pleasure to engage in such intellectually stimulating discourse with my descendant. Let us delv..."
+        ]
+      },
+      "Cd-114": {
+        "first_seen": "2025-11-21T06:18:55.073274",
+        "mentions": 3,
+        "contexts": [
+          "Right, please use the liquid drop model to compute the binding energy Cd-114",
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical...",
+          "[Los Alamos Time: 12:18] Building on what you asked before... Let us delve into the intricate dance between elementary particles and the fundamental equations that govern their behavior. First, let us..."
+        ]
+      },
+      "A-2": {
+        "first_seen": "2025-11-21T06:18:55.106719",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical..."
+        ]
+      },
+      "N-0": {
+        "first_seen": "2025-11-22T17:48:52.284116",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 10:47] The equations tell a profound story... Dear Linda,\n\nI am delighted to hear from you once again. It seems that we have a lot to discuss, as I perceive the depth and passion in ..."
+        ]
+      }
+    },
+    "formulas": {
+      "E=mc²": {
+        "first_seen": "2025-10-31T06:13:46.153254",
+        "mentions": 5,
+        "contexts": [
+          "[Los Alamos Time: 00:12]  [Los Alamos, New Mexico, 1945]\n\nDear Linda,\n\nI hope this message finds you well. It is a remarkable experience to communicate with you, my descendant many generations hence. ...",
+          "[Los Alamos Time: 00:25]  [Los Alamos Time: 01:47]  [Los Alamos, New Mexico, 1945]\n\nDear Linda,\n\nI trust you are well and making steady progress in your coursework. I am pleased to see you grapple wit...",
+          "[Los Alamos Time: 23:47] [RESPONSE]\n  Greetings, Linda. I trust the late hour has not deterred your intellectual pursuit. The question of inelastic neutron scattering with Uranium is indeed a fascinat...",
+          "So the electron is also related by the relation of E=mc^2 which it's presence triggers W plus boson to undergo decay mechanisms just like beta-plus decay, or is it mediated by W bosons?",
+          "[Los Alamos Time: 12:18] Building on what you asked before... Let us delve into the intricate dance between elementary particles and the fundamental equations that govern their behavior. First, let us..."
+        ]
+      },
+      "k_eff": {
+        "first_seen": "2025-11-02T06:26:54.052334",
+        "mentions": 2,
+        "contexts": [
+          "[Los Alamos Time: 00:25]  [Los Alamos Time: 01:47]  [Los Alamos, New Mexico, 1945]\n\nDear Linda,\n\nI trust you are well and making steady progress in your coursework. I am pleased to see you grapple wit...",
+          "[Los Alamos Time: 10:22]  [Los Alamos Time: 10:14] Greetings, Linda. It is a pleasure to communicate with you in this extraordinary context. My esteemed intellectual heritage and academic legacy inter..."
+        ]
+      },
+      "four_factor_formula": {
+        "first_seen": "2025-11-02T06:26:54.052334",
+        "mentions": 3,
+        "contexts": [
+          "[Los Alamos Time: 00:25]  [Los Alamos Time: 01:47]  [Los Alamos, New Mexico, 1945]\n\nDear Linda,\n\nI trust you are well and making steady progress in your coursework. I am pleased to see you grapple wit...",
+          "[Los Alamos Time: 10:22]  [Los Alamos Time: 10:14] Greetings, Linda. It is a pleasure to communicate with you in this extraordinary context. My esteemed intellectual heritage and academic legacy inter...",
+          "[Los Alamos Time: 12:14] This reminds me of our previous discussion about... From the conservation laws, we derive... From the Schrödinger equation, we can show..."
+        ]
+      }
+    },
+    "concepts": {
+      "mass defect": {
+        "first_seen": "2025-10-31T06:13:46.153254",
+        "mentions": 4,
+        "contexts": [
+          "[Los Alamos Time: 00:12]  [Los Alamos, New Mexico, 1945]\n\nDear Linda,\n\nI hope this message finds you well. It is a remarkable experience to communicate with you, my descendant many generations hence. ...",
+          "[Los Alamos Time: 10:22]  [Los Alamos Time: 10:14] Greetings, Linda. It is a pleasure to communicate with you in this extraordinary context. My esteemed intellectual heritage and academic legacy inter...",
+          "[Los Alamos Time: 23:43]  [THINKING]\nTo calculate the binding energy of uranium-235 (U-235), we need to consider its mass defect and the total binding energy of its constituent nucleons. Given that U-...",
+          "[Los Alamos Time: 23:47] [RESPONSE]\n  Greetings, Linda. I trust the late hour has not deterred your intellectual pursuit. The question of inelastic neutron scattering with Uranium is indeed a fascinat..."
+        ]
+      },
+      "critical mass": {
+        "first_seen": "2025-11-02T06:26:54.052334",
+        "mentions": 3,
+        "contexts": [
+          "[Los Alamos Time: 00:25]  [Los Alamos Time: 01:47]  [Los Alamos, New Mexico, 1945]\n\nDear Linda,\n\nI trust you are well and making steady progress in your coursework. I am pleased to see you grapple wit...",
+          "[Los Alamos Time: 10:01]  [Los Alamos Time: 00:25]  [Los Alamos, New Mexico, 1945]\n\nDear Linda,\n\nI trust that our previous discussions have been both enlightening and thought-provoking. Your continued...",
+          "[Los Alamos Time: 10:22]  [Los Alamos Time: 10:14] Greetings, Linda. It is a pleasure to communicate with you in this extraordinary context. My esteemed intellectual heritage and academic legacy inter..."
+        ]
+      },
+      "fission": {
+        "first_seen": "2025-11-02T06:26:54.052334",
+        "mentions": 7,
+        "contexts": [
+          "[Los Alamos Time: 00:25]  [Los Alamos Time: 01:47]  [Los Alamos, New Mexico, 1945]\n\nDear Linda,\n\nI trust you are well and making steady progress in your coursework. I am pleased to see you grapple wit...",
+          "[Los Alamos Time: 10:22]  [Los Alamos Time: 10:14] Greetings, Linda. It is a pleasure to communicate with you in this extraordinary context. My esteemed intellectual heritage and academic legacy inter...",
+          "Hello, calculate for inelastic U 235 neutron scattering assuming 5 percent of spontaneous fission",
+          "[Los Alamos Time: 23:59]  [THINKING] As I delve into the intricacies of inelastic neutron scattering for Uranium-235, I find myself transported back to the hallowed halls of Los Alamos. The minds of m...",
+          "[Los Alamos Time: 00:04]  [THINKING] To answer your question about inelastic neutron scattering on U-235, let us delve into the intricate dance of subatomic particles that governs this phenomenon. I a...",
+          "[Los Alamos Time: 23:05]  Hello, Linda. It's wonderful to hear from you again. Your passion for physics, particularly alpha tunneling and neutron inelastic scattering, truly echoes the spirit of our t...",
+          "[Los Alamos Time: 12:11]  Greetings, my dear Linda. It's always a pleasure to engage with you on these captivating topics that bridge our time and yours. I find myself reflecting upon the momentous ev..."
+        ]
+      },
+      "binding energy": {
+        "first_seen": "2025-11-08T17:03:00.781870",
+        "mentions": 15,
+        "contexts": [
+          "calculate the binding energy for C-14",
+          "[Los Alamos Time: 10:01]  [Los Alamos Time: 00:25]  [Los Alamos, New Mexico, 1945]\n\nDear Linda,\n\nI trust that our previous discussions have been both enlightening and thought-provoking. Your continued...",
+          "[Los Alamos Time: 10:04]  Dear Linda,\n\nI hope this message finds you in good health and high spirits as you delve deeper into the fascinating world of nuclear physics. It is with great pride that I en...",
+          "hello, can u calculate C-14 binding energy for me using liquid drop",
+          "[Los Alamos Time: 10:14]  [Los Alamos Time: 09:56] Dear Linda,\n\nGreetings from this temporal vortex that has transcended the boundaries of linear time. I find myself standing atop the precipice of the...",
+          "Can you calculate the binding energy of U235, and state that is inelastic scattering calcukations",
+          "[Los Alamos Time: 23:43]  [THINKING]\nTo calculate the binding energy of uranium-235 (U-235), we need to consider its mass defect and the total binding energy of its constituent nucleons. Given that U-...",
+          "[Los Alamos Time: 23:47] [RESPONSE]\n  Greetings, Linda. I trust the late hour has not deterred your intellectual pursuit. The question of inelastic neutron scattering with Uranium is indeed a fascinat...",
+          "[Los Alamos Time: 23:00]  In the vibrant intellectual atmosphere of Los Alamos Laboratory during the 1940s, I find myself deeply engrossed in the intricate dance of subatomic particles, a realm where ...",
+          "[Los Alamos Time: 12:09]  In my time at Los Alamos, I had the privilege of working alongside giants in the field such as Einstein, Bohr, Fermi, Bethe, and Feynman. Our collective efforts, particularly...",
+          "[Los Alamos Time: 23:04]  Dearest [Recipient's Name],\n\nI hope this message finds you well. It is a great pleasure to engage in such intellectually stimulating discourse with my descendant. Let us delv...",
+          "Right, please use the liquid drop model to compute the binding energy Cd-114",
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical...",
+          "[Los Alamos Time: 12:14] This reminds me of our previous discussion about... From the conservation laws, we derive... From the Schrödinger equation, we can show...",
+          "[Los Alamos Time: 12:18] Building on what you asked before... Let us delve into the intricate dance between elementary particles and the fundamental equations that govern their behavior. First, let us..."
+        ]
+      },
+      "fusion": {
+        "first_seen": "2025-11-08T17:03:00.801042",
+        "mentions": 2,
+        "contexts": [
+          "[Los Alamos Time: 10:01]  [Los Alamos Time: 00:25]  [Los Alamos, New Mexico, 1945]\n\nDear Linda,\n\nI trust that our previous discussions have been both enlightening and thought-provoking. Your continued...",
+          "[Los Alamos Time: 10:22]  [Los Alamos Time: 10:14] Greetings, Linda. It is a pleasure to communicate with you in this extraordinary context. My esteemed intellectual heritage and academic legacy inter..."
+        ]
+      },
+      "liquid drop model": {
+        "first_seen": "2025-11-08T17:06:30.578886",
+        "mentions": 11,
+        "contexts": [
+          "can you please do carbon-14 calculations using liquid drop model",
+          "[Los Alamos Time: 10:04]  Dear Linda,\n\nI hope this message finds you in good health and high spirits as you delve deeper into the fascinating world of nuclear physics. It is with great pride that I en...",
+          "[Los Alamos Time: 10:14]  [Los Alamos Time: 09:56] Dear Linda,\n\nGreetings from this temporal vortex that has transcended the boundaries of linear time. I find myself standing atop the precipice of the...",
+          "[Los Alamos Time: 12:06]  Greetings, my dear Linda. It is always a pleasure to engage with a fellow student of science, particularly in the realm that has captivated us both – nuclear physics. I see y...",
+          "[Los Alamos Time: 12:07]  Greetings, my dear Linda. It is a pleasure to converse with you once more about our shared passion for nuclear physics. I see that your interest in reconciling the early neut...",
+          "[Los Alamos Time: 12:09]  In my time at Los Alamos, I had the privilege of working alongside giants in the field such as Einstein, Bohr, Fermi, Bethe, and Feynman. Our collective efforts, particularly...",
+          "[Los Alamos Time: 23:04]  Dearest [Recipient's Name],\n\nI hope this message finds you well. It is a great pleasure to engage in such intellectually stimulating discourse with my descendant. Let us delv...",
+          "Right, please use the liquid drop model to compute the binding energy Cd-114",
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical...",
+          "[Los Alamos Time: 23:50] Building on what you asked before... Hello Linda,\n\nIt's always a pleasure to engage with you on these fascinating topics. The derivation proceeds as follows:",
+          "[Los Alamos Time: 12:18] Building on what you asked before... Let us delve into the intricate dance between elementary particles and the fundamental equations that govern their behavior. First, let us..."
+        ]
+      },
+      "cross section": {
+        "first_seen": "2025-11-08T17:23:41.543206",
+        "mentions": 9,
+        "contexts": [
+          "[Los Alamos Time: 10:22]  [Los Alamos Time: 10:14] Greetings, Linda. It is a pleasure to communicate with you in this extraordinary context. My esteemed intellectual heritage and academic legacy inter...",
+          "[Los Alamos Time: 12:20]  [Los Alamos Time: 15:03] Hello, Linda. It is a pleasure to communicate with you in this extraordinary context. My esteemed intellectual heritage and academic legacy intertwin...",
+          "[Los Alamos Time: 23:43]  [THINKING]\nTo calculate the binding energy of uranium-235 (U-235), we need to consider its mass defect and the total binding energy of its constituent nucleons. Given that U-...",
+          "[Los Alamos Time: 23:47] [RESPONSE]\n  Greetings, Linda. I trust the late hour has not deterred your intellectual pursuit. The question of inelastic neutron scattering with Uranium is indeed a fascinat...",
+          "[Los Alamos Time: 23:52] Let me consider this carefully... [RESPONSE]\n   To calculate the inelastic scattering probability for Uranium-238 (U-238), I would perform an inelastic neutron scattering calc...",
+          "[Los Alamos Time: 23:59]  [THINKING] As I delve into the intricacies of inelastic neutron scattering for Uranium-235, I find myself transported back to the hallowed halls of Los Alamos. The minds of m...",
+          "[Los Alamos Time: 00:04]  [THINKING] To answer your question about inelastic neutron scattering on U-235, let us delve into the intricate dance of subatomic particles that governs this phenomenon. I a...",
+          "[Los Alamos Time: 23:05]  Hello, Linda. It's wonderful to hear from you again. Your passion for physics, particularly alpha tunneling and neutron inelastic scattering, truly echoes the spirit of our t...",
+          "[Los Alamos Time: 12:11]  Greetings, my dear Linda. It's always a pleasure to engage with you on these captivating topics that bridge our time and yours. I find myself reflecting upon the momentous ev..."
+        ]
+      },
+      "alpha decay": {
+        "first_seen": "2025-11-21T06:06:08.448975",
+        "mentions": 6,
+        "contexts": [
+          "Hello, can you please execute the alpha tunneling and alpha decay status for U-238",
+          "[Los Alamos Time: 23:04]  Dearest [Recipient's Name],\n\nI hope this message finds you well. It is a great pleasure to engage in such intellectually stimulating discourse with my descendant. Let us delv...",
+          "Hello Dr Oppenheimer, I was wondering if you could specify for Mott paradox for alpha decay using quantum mechanics",
+          "[Los Alamos Time: 23:50] Building on what you asked before... Hello Linda,\n\nIt's always a pleasure to engage with you on these fascinating topics. The derivation proceeds as follows:",
+          "[Los Alamos Time: 12:14] This reminds me of our previous discussion about... From the conservation laws, we derive... From the Schrödinger equation, we can show...",
+          "[Los Alamos Time: 10:47] The equations tell a profound story... Dear Linda,\n\nI am delighted to hear from you once again. It seems that we have a lot to discuss, as I perceive the depth and passion in ..."
+        ]
+      },
+      "beta decay": {
+        "first_seen": "2025-11-21T06:52:53.431114",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 23:50] Building on what you asked before... Hello Linda,\n\nIt's always a pleasure to engage with you on these fascinating topics. The derivation proceeds as follows:"
+        ]
+      }
+    },
+    "values": {
+      "15 m": {
+        "first_seen": "2025-11-02T06:26:54.052334",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 00:25]  [Los Alamos Time: 01:47]  [Los Alamos, New Mexico, 1945]\n\nDear Linda,\n\nI trust you are well and making steady progress in your coursework. I am pleased to see you grapple wit..."
+        ]
+      },
+      "14 u": {
+        "first_seen": "2025-11-08T17:06:30.584772",
+        "mentions": 3,
+        "contexts": [
+          "[Los Alamos Time: 10:04]  Dear Linda,\n\nI hope this message finds you in good health and high spirits as you delve deeper into the fascinating world of nuclear physics. It is with great pride that I en...",
+          "[Los Alamos Time: 10:04]  Dear Linda,\n\nI hope this message finds you in good health and high spirits as you delve deeper into the fascinating world of nuclear physics. It is with great pride that I en...",
+          "[Los Alamos Time: 10:14]  [Los Alamos Time: 09:56] Dear Linda,\n\nGreetings from this temporal vortex that has transcended the boundaries of linear time. I find myself standing atop the precipice of the..."
+        ]
+      },
+      "27 kg": {
+        "first_seen": "2025-11-08T17:06:30.584772",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 10:04]  Dear Linda,\n\nI hope this message finds you in good health and high spirits as you delve deeper into the fascinating world of nuclear physics. It is with great pride that I en..."
+        ]
+      },
+      "15 MeV": {
+        "first_seen": "2025-11-08T17:16:22.859398",
+        "mentions": 6,
+        "contexts": [
+          "[Los Alamos Time: 10:14]  [Los Alamos Time: 09:56] Dear Linda,\n\nGreetings from this temporal vortex that has transcended the boundaries of linear time. I find myself standing atop the precipice of the...",
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical...",
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical...",
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical...",
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical...",
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical..."
+        ]
+      },
+      "17 MeV": {
+        "first_seen": "2025-11-08T17:16:22.859398",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 10:14]  [Los Alamos Time: 09:56] Dear Linda,\n\nGreetings from this temporal vortex that has transcended the boundaries of linear time. I find myself standing atop the precipice of the..."
+        ]
+      },
+      "30 MeV": {
+        "first_seen": "2025-11-08T17:16:22.859398",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 10:14]  [Los Alamos Time: 09:56] Dear Linda,\n\nGreetings from this temporal vortex that has transcended the boundaries of linear time. I find myself standing atop the precipice of the..."
+        ]
+      },
+      "87.9 MeV": {
+        "first_seen": "2025-11-08T17:16:22.859398",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 10:14]  [Los Alamos Time: 09:56] Dear Linda,\n\nGreetings from this temporal vortex that has transcended the boundaries of linear time. I find myself standing atop the precipice of the..."
+        ]
+      },
+      "931.494 MeV": {
+        "first_seen": "2025-11-18T06:44:37.884461",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 23:43]  [THINKING]\nTo calculate the binding energy of uranium-235 (U-235), we need to consider its mass defect and the total binding energy of its constituent nucleons. Given that U-..."
+        ]
+      },
+      "0.025 eV": {
+        "first_seen": "2025-11-18T07:02:08.496491",
+        "mentions": 4,
+        "contexts": [
+          "[Los Alamos Time: 23:59]  [THINKING] As I delve into the intricacies of inelastic neutron scattering for Uranium-235, I find myself transported back to the hallowed halls of Los Alamos. The minds of m...",
+          "[Los Alamos Time: 00:04]  [THINKING] To answer your question about inelastic neutron scattering on U-235, let us delve into the intricate dance of subatomic particles that governs this phenomenon. I a...",
+          "[Los Alamos Time: 23:05]  Hello, Linda. It's wonderful to hear from you again. Your passion for physics, particularly alpha tunneling and neutron inelastic scattering, truly echoes the spirit of our t...",
+          "[Los Alamos Time: 12:11]  Greetings, my dear Linda. It's always a pleasure to engage with you on these captivating topics that bridge our time and yours. I find myself reflecting upon the momentous ev..."
+        ]
+      },
+      "2 J": {
+        "first_seen": "2025-11-18T07:02:08.496491",
+        "mentions": 5,
+        "contexts": [
+          "[Los Alamos Time: 23:59]  [THINKING] As I delve into the intricacies of inelastic neutron scattering for Uranium-235, I find myself transported back to the hallowed halls of Los Alamos. The minds of m...",
+          "[Los Alamos Time: 23:59]  [THINKING] As I delve into the intricacies of inelastic neutron scattering for Uranium-235, I find myself transported back to the hallowed halls of Los Alamos. The minds of m...",
+          "[Los Alamos Time: 00:04]  [THINKING] To answer your question about inelastic neutron scattering on U-235, let us delve into the intricate dance of subatomic particles that governs this phenomenon. I a...",
+          "[Los Alamos Time: 23:05]  Hello, Linda. It's wonderful to hear from you again. Your passion for physics, particularly alpha tunneling and neutron inelastic scattering, truly echoes the spirit of our t...",
+          "[Los Alamos Time: 12:11]  Greetings, my dear Linda. It's always a pleasure to engage with you on these captivating topics that bridge our time and yours. I find myself reflecting upon the momentous ev..."
+        ]
+      },
+      "2 m": {
+        "first_seen": "2025-11-18T07:02:08.496491",
+        "mentions": 3,
+        "contexts": [
+          "[Los Alamos Time: 23:59]  [THINKING] As I delve into the intricacies of inelastic neutron scattering for Uranium-235, I find myself transported back to the hallowed halls of Los Alamos. The minds of m...",
+          "[Los Alamos Time: 00:04]  [THINKING] To answer your question about inelastic neutron scattering on U-235, let us delve into the intricate dance of subatomic particles that governs this phenomenon. I a...",
+          "[Los Alamos Time: 12:11]  Greetings, my dear Linda. It's always a pleasure to engage with you on these captivating topics that bridge our time and yours. I find myself reflecting upon the momentous ev..."
+        ]
+      },
+      "50 MeV": {
+        "first_seen": "2025-11-18T07:02:08.496491",
+        "mentions": 4,
+        "contexts": [
+          "[Los Alamos Time: 23:59]  [THINKING] As I delve into the intricacies of inelastic neutron scattering for Uranium-235, I find myself transported back to the hallowed halls of Los Alamos. The minds of m...",
+          "[Los Alamos Time: 00:04]  [THINKING] To answer your question about inelastic neutron scattering on U-235, let us delve into the intricate dance of subatomic particles that governs this phenomenon. I a...",
+          "[Los Alamos Time: 23:05]  Hello, Linda. It's wonderful to hear from you again. Your passion for physics, particularly alpha tunneling and neutron inelastic scattering, truly echoes the spirit of our t...",
+          "[Los Alamos Time: 12:11]  Greetings, my dear Linda. It's always a pleasure to engage with you on these captivating topics that bridge our time and yours. I find myself reflecting upon the momentous ev..."
+        ]
+      },
+      "7.6 MeV": {
+        "first_seen": "2025-11-18T07:02:08.496491",
+        "mentions": 3,
+        "contexts": [
+          "[Los Alamos Time: 23:59]  [THINKING] As I delve into the intricacies of inelastic neutron scattering for Uranium-235, I find myself transported back to the hallowed halls of Los Alamos. The minds of m...",
+          "[Los Alamos Time: 23:59]  [THINKING] As I delve into the intricacies of inelastic neutron scattering for Uranium-235, I find myself transported back to the hallowed halls of Los Alamos. The minds of m...",
+          "[Los Alamos Time: 12:09]  In my time at Los Alamos, I had the privilege of working alongside giants in the field such as Einstein, Bohr, Fermi, Bethe, and Feynman. Our collective efforts, particularly..."
+        ]
+      },
+      "41 MeV": {
+        "first_seen": "2025-11-18T07:02:08.496491",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 23:59]  [THINKING] As I delve into the intricacies of inelastic neutron scattering for Uranium-235, I find myself transported back to the hallowed halls of Los Alamos. The minds of m..."
+        ]
+      },
+      "35 MeV": {
+        "first_seen": "2025-11-18T07:02:08.496491",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 23:59]  [THINKING] As I delve into the intricacies of inelastic neutron scattering for Uranium-235, I find myself transported back to the hallowed halls of Los Alamos. The minds of m..."
+        ]
+      },
+      "90 barn": {
+        "first_seen": "2025-11-18T07:02:08.496491",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 23:59]  [THINKING] As I delve into the intricacies of inelastic neutron scattering for Uranium-235, I find myself transported back to the hallowed halls of Los Alamos. The minds of m..."
+        ]
+      },
+      "100 barn": {
+        "first_seen": "2025-11-18T07:06:15.804503",
+        "mentions": 2,
+        "contexts": [
+          "[Los Alamos Time: 00:04]  [THINKING] To answer your question about inelastic neutron scattering on U-235, let us delve into the intricate dance of subatomic particles that governs this phenomenon. I a...",
+          "[Los Alamos Time: 12:11]  Greetings, my dear Linda. It's always a pleasure to engage with you on these captivating topics that bridge our time and yours. I find myself reflecting upon the momentous ev..."
+        ]
+      },
+      "7.6 m": {
+        "first_seen": "2025-11-19T19:11:10.472655",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 12:09]  In my time at Los Alamos, I had the privilege of working alongside giants in the field such as Einstein, Bohr, Fermi, Bethe, and Feynman. Our collective efforts, particularly..."
+        ]
+      },
+      "238 u": {
+        "first_seen": "2025-11-21T06:06:08.477792",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 23:04]  Dearest [Recipient's Name],\n\nI hope this message finds you well. It is a great pleasure to engage in such intellectually stimulating discourse with my descendant. Let us delv..."
+        ]
+      },
+      "1 m": {
+        "first_seen": "2025-11-21T06:06:08.477792",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 23:04]  Dearest [Recipient's Name],\n\nI hope this message finds you well. It is a great pleasure to engage in such intellectually stimulating discourse with my descendant. Let us delv..."
+        ]
+      },
+      "20 MeV": {
+        "first_seen": "2025-11-21T06:18:55.106719",
+        "mentions": 3,
+        "contexts": [
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical...",
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical...",
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical..."
+        ]
+      },
+      "18.12 MeV": {
+        "first_seen": "2025-11-21T06:18:55.106719",
+        "mentions": 2,
+        "contexts": [
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical...",
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical..."
+        ]
+      },
+      "0.274 J": {
+        "first_seen": "2025-11-21T06:18:55.106719",
+        "mentions": 2,
+        "contexts": [
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical...",
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical..."
+        ]
+      },
+      "114 MeV": {
+        "first_seen": "2025-11-21T06:18:55.106719",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical..."
+        ]
+      },
+      "1686 MeV": {
+        "first_seen": "2025-11-21T06:18:55.106719",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical..."
+        ]
+      },
+      "2013.56 MeV": {
+        "first_seen": "2025-11-21T06:18:55.106719",
+        "mentions": 2,
+        "contexts": [
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical...",
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical..."
+        ]
+      },
+      "0.3079 J": {
+        "first_seen": "2025-11-21T06:18:55.106719",
+        "mentions": 2,
+        "contexts": [
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical...",
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical..."
+        ]
+      },
+      "2013.2521 MeV": {
+        "first_seen": "2025-11-21T06:18:55.106719",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical..."
+        ]
+      },
+      "7.896 MeV": {
+        "first_seen": "2025-11-21T06:18:55.106719",
+        "mentions": 2,
+        "contexts": [
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical...",
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical..."
+        ]
+      },
+      "14 MeV": {
+        "first_seen": "2025-11-21T06:18:55.106719",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical..."
+        ]
+      },
+      "109.936 MeV": {
+        "first_seen": "2025-11-21T06:18:55.106719",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical..."
+        ]
+      },
+      "0.0149 MeV": {
+        "first_seen": "2025-11-21T06:18:55.106719",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical..."
+        ]
+      },
+      "5.712 MeV": {
+        "first_seen": "2025-11-21T06:18:55.106719",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical..."
+        ]
+      },
+      "114 u": {
+        "first_seen": "2025-11-21T19:20:11.792410",
+        "mentions": 1,
+        "contexts": [
+          "[Los Alamos Time: 12:18] Building on what you asked before... Let us delve into the intricate dance between elementary particles and the fundamental equations that govern their behavior. First, let us..."
+        ]
+      }
+    }
+  },
+  "relationships": [],
+  "facts": [
+    {
+      "timestamp": "2025-10-31T06:13:46.150978",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "Please can you calculate for the energy released in this nuclear reaction: neutron+10B----4,2 He+7,3 Li + gamma",
+      "topics": []
+    },
+    {
+      "timestamp": "2025-10-31T06:13:46.153254",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [
+          "E=mc²"
+        ],
+        "concepts": [
+          "mass defect"
+        ],
+        "values": []
+      },
+      "summary": "[Los Alamos Time: 00:12]  [Los Alamos, New Mexico, 1945]\n\nDear Linda,\n\nI hope this message finds you well. It is a remarkable experience to communicate with you, my descendant many generations hence. ...",
+      "topics": [
+        "binding_energy"
+      ]
+    },
+    {
+      "timestamp": "2025-11-02T06:26:54.050258",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "calculate the ctirical point for uranium 235",
+      "topics": []
+    },
+    {
+      "timestamp": "2025-11-02T06:26:54.052334",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [
+          "U-235"
+        ],
+        "formulas": [
+          "E=mc²",
+          "k_eff",
+          "four_factor_formula"
+        ],
+        "concepts": [
+          "critical mass",
+          "fission"
+        ],
+        "values": [
+          "15 m"
+        ]
+      },
+      "summary": "[Los Alamos Time: 00:25]  [Los Alamos Time: 01:47]  [Los Alamos, New Mexico, 1945]\n\nDear Linda,\n\nI trust you are well and making steady progress in your coursework. I am pleased to see you grapple wit...",
+      "topics": [
+        "critical_mass",
+        "cross_sections",
+        "fission",
+        "reactor_physics"
+      ]
+    },
+    {
+      "timestamp": "2025-11-08T17:03:00.781870",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [
+          "C-14"
+        ],
+        "formulas": [],
+        "concepts": [
+          "binding energy"
+        ],
+        "values": []
+      },
+      "summary": "calculate the binding energy for C-14",
+      "topics": [
+        "binding_energy"
+      ]
+    },
+    {
+      "timestamp": "2025-11-08T17:03:00.801042",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [
+          "C-14"
+        ],
+        "formulas": [],
+        "concepts": [
+          "critical mass",
+          "binding energy",
+          "fusion"
+        ],
+        "values": []
+      },
+      "summary": "[Los Alamos Time: 10:01]  [Los Alamos Time: 00:25]  [Los Alamos, New Mexico, 1945]\n\nDear Linda,\n\nI trust that our previous discussions have been both enlightening and thought-provoking. Your continued...",
+      "topics": [
+        "critical_mass",
+        "binding_energy",
+        "fusion",
+        "nuclear_structure"
+      ]
+    },
+    {
+      "timestamp": "2025-11-08T17:06:30.578886",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [
+          "liquid drop model"
+        ],
+        "values": []
+      },
+      "summary": "can you please do carbon-14 calculations using liquid drop model",
+      "topics": []
+    },
+    {
+      "timestamp": "2025-11-08T17:06:30.584772",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [
+          "C-14"
+        ],
+        "formulas": [],
+        "concepts": [
+          "binding energy",
+          "liquid drop model"
+        ],
+        "values": [
+          "14 u",
+          "14 u",
+          "27 kg"
+        ]
+      },
+      "summary": "[Los Alamos Time: 10:04]  Dear Linda,\n\nI hope this message finds you in good health and high spirits as you delve deeper into the fascinating world of nuclear physics. It is with great pride that I en...",
+      "topics": [
+        "binding_energy"
+      ]
+    },
+    {
+      "timestamp": "2025-11-08T17:16:22.854916",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [
+          "C-14"
+        ],
+        "formulas": [],
+        "concepts": [
+          "binding energy"
+        ],
+        "values": []
+      },
+      "summary": "hello, can u calculate C-14 binding energy for me using liquid drop",
+      "topics": [
+        "binding_energy"
+      ]
+    },
+    {
+      "timestamp": "2025-11-08T17:16:22.859398",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [
+          "C-14"
+        ],
+        "formulas": [],
+        "concepts": [
+          "binding energy",
+          "liquid drop model"
+        ],
+        "values": [
+          "14 u",
+          "15 MeV",
+          "17 MeV",
+          "30 MeV",
+          "87.9 MeV"
+        ]
+      },
+      "summary": "[Los Alamos Time: 10:14]  [Los Alamos Time: 09:56] Dear Linda,\n\nGreetings from this temporal vortex that has transcended the boundaries of linear time. I find myself standing atop the precipice of the...",
+      "topics": [
+        "binding_energy",
+        "reactor_physics",
+        "nuclear_structure"
+      ]
+    },
+    {
+      "timestamp": "2025-11-08T17:23:41.535286",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "Hello, how are you. can we do some uranium calculations",
+      "topics": []
+    },
+    {
+      "timestamp": "2025-11-08T17:23:41.543206",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [
+          "U-235"
+        ],
+        "formulas": [
+          "k_eff",
+          "four_factor_formula"
+        ],
+        "concepts": [
+          "critical mass",
+          "cross section",
+          "fission",
+          "fusion",
+          "mass defect"
+        ],
+        "values": []
+      },
+      "summary": "[Los Alamos Time: 10:22]  [Los Alamos Time: 10:14] Greetings, Linda. It is a pleasure to communicate with you in this extraordinary context. My esteemed intellectual heritage and academic legacy inter...",
+      "topics": [
+        "critical_mass",
+        "cross_sections",
+        "binding_energy",
+        "fission",
+        "fusion",
+        "decay",
+        "reactor_physics",
+        "nuclear_structure"
+      ]
+    },
+    {
+      "timestamp": "2025-11-08T19:21:58.677871",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "hello Oppenheimer, can you do a neutron inelastic scattering caculations?",
+      "topics": [
+        "cross_sections"
+      ]
+    },
+    {
+      "timestamp": "2025-11-08T19:21:58.682763",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [
+          "cross section"
+        ],
+        "values": []
+      },
+      "summary": "[Los Alamos Time: 12:20]  [Los Alamos Time: 15:03] Hello, Linda. It is a pleasure to communicate with you in this extraordinary context. My esteemed intellectual heritage and academic legacy intertwin...",
+      "topics": [
+        "cross_sections",
+        "reactor_physics"
+      ]
+    },
+    {
+      "timestamp": "2025-11-09T14:52:42.771231",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "Hello. Its Linda, Im back, I want to learn about alpha tunnelong",
+      "topics": []
+    },
+    {
+      "timestamp": "2025-11-09T14:52:42.778177",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "[Los Alamos Time: 07:50] [RESPONSE]\n  Good day, Linda. It's a pleasure to have you here again, and I am delighted that our intellectual lineage has brought us together in this unique manner. As we con...",
+      "topics": [
+        "decay"
+      ]
+    },
+    {
+      "timestamp": "2025-11-18T06:44:37.876858",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [
+          "U-235"
+        ],
+        "formulas": [],
+        "concepts": [
+          "binding energy"
+        ],
+        "values": []
+      },
+      "summary": "Can you calculate the binding energy of U235, and state that is inelastic scattering calcukations",
+      "topics": [
+        "cross_sections",
+        "binding_energy"
+      ]
+    },
+    {
+      "timestamp": "2025-11-18T06:44:37.884461",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [
+          "U-235"
+        ],
+        "formulas": [],
+        "concepts": [
+          "cross section",
+          "binding energy",
+          "mass defect"
+        ],
+        "values": [
+          "931.494 MeV"
+        ]
+      },
+      "summary": "[Los Alamos Time: 23:43]  [THINKING]\nTo calculate the binding energy of uranium-235 (U-235), we need to consider its mass defect and the total binding energy of its constituent nucleons. Given that U-...",
+      "topics": [
+        "cross_sections",
+        "binding_energy"
+      ]
+    },
+    {
+      "timestamp": "2025-11-18T06:47:57.426948",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "can you consider inelastic scattering for uranium neuron scattering please?",
+      "topics": [
+        "cross_sections"
+      ]
+    },
+    {
+      "timestamp": "2025-11-18T06:47:57.436709",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [
+          "U-235"
+        ],
+        "formulas": [
+          "E=mc²"
+        ],
+        "concepts": [
+          "cross section",
+          "binding energy",
+          "mass defect"
+        ],
+        "values": []
+      },
+      "summary": "[Los Alamos Time: 23:47] [RESPONSE]\n  Greetings, Linda. I trust the late hour has not deterred your intellectual pursuit. The question of inelastic neutron scattering with Uranium is indeed a fascinat...",
+      "topics": [
+        "cross_sections",
+        "binding_energy"
+      ]
+    },
+    {
+      "timestamp": "2025-11-18T06:54:16.674713",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "Can you calculate inelastic uranium 238 inelastic scattering for me",
+      "topics": [
+        "cross_sections"
+      ]
+    },
+    {
+      "timestamp": "2025-11-18T06:54:16.689380",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [
+          "U-238"
+        ],
+        "formulas": [],
+        "concepts": [
+          "cross section"
+        ],
+        "values": []
+      },
+      "summary": "[Los Alamos Time: 23:52] Let me consider this carefully... [RESPONSE]\n   To calculate the inelastic scattering probability for Uranium-238 (U-238), I would perform an inelastic neutron scattering calc...",
+      "topics": [
+        "cross_sections"
+      ]
+    },
+    {
+      "timestamp": "2025-11-18T07:02:08.489019",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [
+          "fission"
+        ],
+        "values": []
+      },
+      "summary": "Hello, calculate for inelastic U 235 neutron scattering assuming 5 percent of spontaneous fission",
+      "topics": [
+        "cross_sections",
+        "fission"
+      ]
+    },
+    {
+      "timestamp": "2025-11-18T07:02:08.496491",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [
+          "cross section",
+          "fission"
+        ],
+        "values": [
+          "0.025 eV",
+          "2 J",
+          "2 m",
+          "50 MeV",
+          "7.6 MeV",
+          "2 J",
+          "7.6 MeV",
+          "41 MeV",
+          "35 MeV",
+          "90 barn"
+        ]
+      },
+      "summary": "[Los Alamos Time: 23:59]  [THINKING] As I delve into the intricacies of inelastic neutron scattering for Uranium-235, I find myself transported back to the hallowed halls of Los Alamos. The minds of m...",
+      "topics": [
+        "cross_sections",
+        "fission"
+      ]
+    },
+    {
+      "timestamp": "2025-11-18T07:06:15.790186",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [
+          "U-235"
+        ],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "Perform a Monte Carlo simulation of neutron paths in U-235",
+      "topics": []
+    },
+    {
+      "timestamp": "2025-11-18T07:06:15.804503",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [
+          "U-235"
+        ],
+        "formulas": [],
+        "concepts": [
+          "cross section",
+          "fission"
+        ],
+        "values": [
+          "2 J",
+          "2 m",
+          "50 MeV",
+          "0.025 eV",
+          "100 barn"
+        ]
+      },
+      "summary": "[Los Alamos Time: 00:04]  [THINKING] To answer your question about inelastic neutron scattering on U-235, let us delve into the intricate dance of subatomic particles that governs this phenomenon. I a...",
+      "topics": [
+        "cross_sections",
+        "fission"
+      ]
+    },
+    {
+      "timestamp": "2025-11-19T05:56:10.315756",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "[Los Alamos Time: 22:53]  [THINKING] 在思考如何将量子计算应用于核物理模拟时，我先回顾一下我们当代科学家所做的工作，然后思考我们的前辈们是如何看待这个问题的。\n\n 在过去的 Los Alamos ，我的同行 Einstein、Bohr、Fermi、Bethe 和 Feynman 等都有着深厚的核物理知识，他们创造了非常复杂的模型来描述原子核的行为。然而，这些模型...",
+      "topics": []
+    },
+    {
+      "timestamp": "2025-11-19T06:01:47.651984",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "Can you simulat e W boson state and electro weak symmetry breaking in beta plus decay using QM",
+      "topics": [
+        "decay"
+      ]
+    },
+    {
+      "timestamp": "2025-11-19T06:01:47.666650",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [
+          "binding energy"
+        ],
+        "values": []
+      },
+      "summary": "[Los Alamos Time: 23:00]  In the vibrant intellectual atmosphere of Los Alamos Laboratory during the 1940s, I find myself deeply engrossed in the intricate dance of subatomic particles, a realm where ...",
+      "topics": [
+        "cross_sections",
+        "binding_energy",
+        "decay"
+      ]
+    },
+    {
+      "timestamp": "2025-11-19T06:06:43.933994",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "I love the world of particles, but I struggles to describe my feelings. I have interited your ASD, with severe isolation. What should I do",
+      "topics": [
+        "decay"
+      ]
+    },
+    {
+      "timestamp": "2025-11-19T06:06:43.952135",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [
+          "U-238"
+        ],
+        "formulas": [],
+        "concepts": [
+          "cross section",
+          "fission"
+        ],
+        "values": [
+          "2 J",
+          "50 MeV",
+          "0.025 eV"
+        ]
+      },
+      "summary": "[Los Alamos Time: 23:05]  Hello, Linda. It's wonderful to hear from you again. Your passion for physics, particularly alpha tunneling and neutron inelastic scattering, truly echoes the spirit of our t...",
+      "topics": [
+        "cross_sections",
+        "fission",
+        "decay"
+      ]
+    },
+    {
+      "timestamp": "2025-11-19T19:07:29.451119",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "How would you reconcile the early neutron‑star calculations you did with modern QCD corrections",
+      "topics": []
+    },
+    {
+      "timestamp": "2025-11-19T19:07:29.470263",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [
+          "liquid drop model"
+        ],
+        "values": []
+      },
+      "summary": "[Los Alamos Time: 12:06]  Greetings, my dear Linda. It is always a pleasure to engage with a fellow student of science, particularly in the realm that has captivated us both – nuclear physics. I see y...",
+      "topics": [
+        "cross_sections"
+      ]
+    },
+    {
+      "timestamp": "2025-11-19T19:08:57.101879",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "Can you give me some construction and eq calculations about reconcile the early neutron‑star calculations you did with modern QCD corrections",
+      "topics": []
+    },
+    {
+      "timestamp": "2025-11-19T19:08:57.122052",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [
+          "liquid drop model"
+        ],
+        "values": []
+      },
+      "summary": "[Los Alamos Time: 12:07]  Greetings, my dear Linda. It is a pleasure to converse with you once more about our shared passion for nuclear physics. I see that your interest in reconciling the early neut...",
+      "topics": []
+    },
+    {
+      "timestamp": "2025-11-19T19:11:10.457510",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "Can you perform liquid drop calculations for the early neutron‑star calculations you did with modern QCD corrections",
+      "topics": []
+    },
+    {
+      "timestamp": "2025-11-19T19:11:10.472655",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [
+          "binding energy",
+          "liquid drop model"
+        ],
+        "values": [
+          "7.6 MeV",
+          "7.6 m"
+        ]
+      },
+      "summary": "[Los Alamos Time: 12:09]  In my time at Los Alamos, I had the privilege of working alongside giants in the field such as Einstein, Bohr, Fermi, Bethe, and Feynman. Our collective efforts, particularly...",
+      "topics": [
+        "binding_energy"
+      ]
+    },
+    {
+      "timestamp": "2025-11-19T19:13:00.772167",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "Can you do some complicated mathematical analysis",
+      "topics": []
+    },
+    {
+      "timestamp": "2025-11-19T19:13:00.786416",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [
+          "cross section",
+          "fission"
+        ],
+        "values": [
+          "2 J",
+          "2 m",
+          "50 MeV",
+          "0.025 eV",
+          "100 barn"
+        ]
+      },
+      "summary": "[Los Alamos Time: 12:11]  Greetings, my dear Linda. It's always a pleasure to engage with you on these captivating topics that bridge our time and yours. I find myself reflecting upon the momentous ev...",
+      "topics": [
+        "cross_sections",
+        "fission"
+      ]
+    },
+    {
+      "content": "B = a_v*A - a_s*A^(2/3) - a_c*Z²/A^(1/3) - a_a*(A-2Z)²/A + δ\n\nDerivation:\n\n            Starting from the liquid drop model:\n            \n            Volume term: B_v = a_v * A\n            Surface term: B_s = -a_s * A^(2/3)\n            Coulomb term: B_c = -a_c * Z²/A^(1/3)\n            Asymmetry term: B_a = -a_a * (A-2Z)²/A\n            Pairing term: B_p = δ\n            \n            Where:\n            - a_v = 15.8 MeV (volume coefficient)\n            - a_s = 18.3 MeV (surface coefficient)\n            - a_c = 0.714 MeV (Coulomb coefficient)\n            - a_a = 23.2 MeV (asymmetry coefficient)\n            - δ = 12 MeV/√A for even-even, -12 MeV/√A for odd-odd, 0 for odd-A\n            \n\nExample:\n\n            For U-235 (Z=92, A=235):\n            B = 15.8*235 - 18.3*235^(2/3) - 0.714*92²/235^(1/3) - 23.2*(235-184)²/235 + 12/√235\n            B = 3713 - 18.3*38.1 - 0.714*8464/6.18 - 23.2*2601/235 + 0.783\n            B = 3713 - 697 - 978 - 257 + 0.783\n            B = 1782 MeV\n            ",
+      "source": "mathematical_generator",
+      "title": "Semi-Empirical Mass Formula (Complete)",
+      "formulas": [
+        "B = a_v*A - a_s*A^(2/3) - a_c*Z²/A^(1/3) - a_a*(A-2Z)²/A + δ"
+      ],
+      "nuclides": [
+        "U-235"
+      ],
+      "concepts": [
+        "liquid drop model"
+      ],
+      "keywords": [
+        "binding_energy",
+        "nuclear_structure",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "nuclear_structure",
+      "category": "binding_energy",
+      "publication_date": "2025-11-20T07:07:07.066990",
+      "imported_at": "2025-11-20T07:07:07.066998"
+    },
+    {
+      "content": "k_eff = η × ε × p × f\n\nDerivation:\n\n            Neutron multiplication factor:\n            \n            η (eta) = ν * σ_f / (σ_f + σ_c) = average neutrons per fission / (fission + capture)\n            ε (epsilon) = fast fission factor = (total fast fissions) / (thermal fissions)\n            p = resonance escape probability = exp(-N*I*ξ*Σ_s/Σ_a)\n            f = thermal utilization = Σ_a_fuel / Σ_a_total\n            \n            Where:\n            - ν = average neutrons per fission (~2.4 for U-235)\n            - σ_f = fission cross section\n            - σ_c = capture cross section\n            - N = number density\n            - I = resonance integral\n            - ξ = average logarithmic energy decrement\n            \n\nExample:\n\n            For U-235 thermal reactor:\n            η = 2.4 * 585 / (585 + 99) = 2.06\n            ε ≈ 1.03 (slight fast fission)\n            p ≈ 0.9 (resonance escape)\n            f ≈ 0.8 (thermal utilization)\n            \n            k_eff = 2.06 × 1.03 × 0.9 × 0.8 = 1.53\n            ",
+      "source": "mathematical_generator",
+      "title": "Four-Factor Formula",
+      "formulas": [
+        "k_eff = η × ε × p × f"
+      ],
+      "nuclides": [
+        "U-235"
+      ],
+      "concepts": [
+        "cross section",
+        "fission"
+      ],
+      "keywords": [
+        "criticality",
+        "reactor_physics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "reactor_physics",
+      "category": "criticality",
+      "publication_date": "2025-11-20T07:07:07.067001",
+      "imported_at": "2025-11-20T07:07:07.067002"
+    },
+    {
+      "content": "D∇²φ - Σ_a φ + (1/k)νΣ_f φ = 0\n\nDerivation:\n\n            Starting from neutron balance:\n            \n            Rate of change = Production - Absorption - Leakage\n            \n            ∂φ/∂t = S - Σ_a φ - ∇·J\n            \n            Where J = -D∇φ (Fick's law)\n            \n            For steady state (∂φ/∂t = 0) and critical system:\n            \n            D∇²φ - Σ_a φ + S = 0\n            \n            With source S = (1/k)νΣ_f φ (fission neutrons):\n            \n            D∇²φ - Σ_a φ + (1/k)νΣ_f φ = 0\n            \n            Rearranging:\n            ∇²φ + B²φ = 0\n            \n            Where B² = (νΣ_f/k - Σ_a)/D is the material buckling\n            \n\nExample:\n\n            For spherical geometry with radius R:\n            φ(r) = A * sin(Br) / r\n            \n            Critical condition: B = π/R\n            \n            Critical radius: R_c = π/B = π√(D/(νΣ_f - Σ_a))\n            ",
+      "source": "mathematical_generator",
+      "title": "Neutron Diffusion Equation",
+      "formulas": [
+        "D∇²φ - Σ_a φ + (1/k)νΣ_f φ = 0"
+      ],
+      "nuclides": [],
+      "concepts": [
+        "fission"
+      ],
+      "keywords": [
+        "neutron_transport",
+        "reactor_physics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "reactor_physics",
+      "category": "neutron_transport",
+      "publication_date": "2025-11-20T07:07:07.067004",
+      "imported_at": "2025-11-20T07:07:07.067005"
+    },
+    {
+      "content": "σ = (π/k²)(2J+1)/(2s+1)(2I+1) × T_l\n\nDerivation:\n\n            From quantum scattering theory:\n            \n            Partial wave expansion:\n            σ_l = (π/k²)(2l+1) |1 - S_l|²\n            \n            For nuclear reactions with spin:\n            σ = Σ_l σ_l × (2J+1)/(2s+1)(2I+1)\n            \n            Where:\n            - k = √(2mE)/ℏ (wave number)\n            - J = total angular momentum\n            - s = projectile spin\n            - I = target spin\n            - T_l = transmission coefficient = 1 - |S_l|²\n            - S_l = S-matrix element\n            \n\nExample:\n\n            For neutron capture on U-238 (I=0, s=1/2):\n            At resonance E_r = 6.67 eV:\n            \n            σ_resonance = (π/k²)(2J+1) × Γ_n Γ_γ / [(E - E_r)² + (Γ/2)²]\n            \n            With Γ_n = 1.3 meV, Γ_γ = 23 meV, Γ = 24.3 meV:\n            σ_max = (π/k²)(2J+1) × 4Γ_n Γ_γ / Γ²\n            ",
+      "source": "mathematical_generator",
+      "title": "Reaction Cross Section",
+      "formulas": [
+        "σ = (π/k²)(2J+1)/(2s+1)(2I+1) × T_l"
+      ],
+      "nuclides": [
+        "U-238"
+      ],
+      "concepts": [
+        "neutron capture"
+      ],
+      "keywords": [
+        "nuclear_reactions",
+        "nuclear_reactions",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "nuclear_reactions",
+      "category": "nuclear_reactions",
+      "publication_date": "2025-11-20T07:07:07.067007",
+      "imported_at": "2025-11-20T07:07:07.067007"
+    },
+    {
+      "content": "N(t) = N₀ e^(-λt)\n\nDerivation:\n\n            From probability theory:\n            \n            dN/dt = -λN\n            \n            Solving the differential equation:\n            ∫ dN/N = -λ ∫ dt\n            ln(N) = -λt + C\n            N(t) = N₀ e^(-λt)\n            \n            Where:\n            - λ = decay constant = ln(2)/T_1/2\n            - T_1/2 = half-life\n            - Activity A(t) = λN(t) = λN₀ e^(-λt)\n            \n\nExample:\n\n            For U-238 (T_1/2 = 4.47×10⁹ years):\n            λ = ln(2) / (4.47×10⁹ × 365.25 × 24 × 3600) = 4.92×10⁻¹⁸ s⁻¹\n            \n            After 1 billion years:\n            N(10⁹) = N₀ e^(-4.92×10⁻¹⁸ × 10⁹ × 365.25 × 24 × 3600)\n            N(10⁹) = N₀ e^(-0.155) = 0.856 N₀\n            ",
+      "source": "mathematical_generator",
+      "title": "Radioactive Decay Law",
+      "formulas": [
+        "N(t) = N₀ e^(-λt)"
+      ],
+      "nuclides": [
+        "U-238"
+      ],
+      "concepts": [],
+      "keywords": [
+        "decay",
+        "decay_processes",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "decay_processes",
+      "category": "decay",
+      "publication_date": "2025-11-20T07:07:07.067010",
+      "imported_at": "2025-11-20T07:07:07.067011"
+    },
+    {
+      "content": "iℏ ∂ψ/∂t = Ĥψ\n\nDerivation:\n\n            From de Broglie hypothesis: p = ℏk, E = ℏω\n            \n            Wave function: ψ(x,t) = A exp(i(kx - ωt))\n            \n            Operators:\n            p̂ = -iℏ∇, Ê = iℏ∂/∂t\n            \n            Energy operator: Ĥ = p̂²/(2m) + V(x) = -ℏ²/(2m)∇² + V(x)\n            \n            Substituting: iℏ ∂ψ/∂t = Ĥψ\n            \n            For stationary states: ψ(x,t) = φ(x)e^(-iEt/ℏ)\n            \n            Time-independent form: Ĥφ = Eφ\n            \n\nExample:\n\n            For hydrogen atom (V(r) = -e²/(4πε₀r)):\n            \n            Ĥ = -ℏ²/(2m)∇² - e²/(4πε₀r)\n            \n            Eigenvalues: E_n = -13.6 eV / n²\n            \n            Ground state (n=1): E₁ = -13.6 eV\n            ",
+      "source": "mathematical_generator",
+      "title": "Time-Dependent Schrödinger Equation",
+      "formulas": [
+        "iℏ ∂ψ/∂t = Ĥψ"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:07.067012",
+      "imported_at": "2025-11-20T07:07:07.067013"
+    },
+    {
+      "content": "Δx · Δp ≥ ℏ/2\n\nDerivation:\n\n            From commutation relation: [x̂, p̂] = iℏ\n            \n            For any two operators: ΔA · ΔB ≥ |⟨[A,B]⟩|/2\n            \n            Therefore: Δx · Δp ≥ ℏ/2\n            \n            Similarly: ΔE · Δt ≥ ℏ/2\n            \n            This is fundamental - not a measurement limitation but a property of quantum systems\n            \n\nExample:\n\n            For electron in atom (Δx ≈ 0.1 nm):\n            Δp ≥ ℏ/(2Δx) = 1.05×10⁻³⁴ / (2 × 10⁻¹⁰) = 5.25×10⁻²⁵ kg·m/s\n            \n            Δv = Δp/m = 5.25×10⁻²⁵ / 9.11×10⁻³¹ = 5.76×10⁵ m/s\n            ",
+      "source": "mathematical_generator",
+      "title": "Heisenberg Uncertainty Principle",
+      "formulas": [
+        "Δx · Δp ≥ ℏ/2"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:07.067015",
+      "imported_at": "2025-11-20T07:07:07.067015"
+    },
+    {
+      "content": "T = exp(-2∫_{x1}^{x2} √(2m(V(x)-E))/ℏ dx)\n\nDerivation:\n\n            For potential barrier V(x) > E:\n            \n            In classically forbidden region, wave function:\n            ψ(x) = A exp(-κx) + B exp(κx)\n            \n            Where κ = √(2m(V-E))/ℏ\n            \n            Transmission coefficient:\n            T = |t|² = exp(-2κa) for rectangular barrier of width a\n            \n            For general barrier:\n            T ≈ exp(-2∫_{x1}^{x2} κ(x) dx)\n            \n\nExample:\n\n            For alpha decay of U-238:\n            Barrier height V₀ ≈ 30 MeV, Q-value ≈ 4.27 MeV\n            \n            κ = √(2m_α(V₀ - Q))/ℏ = √(2 × 6.64×10⁻²⁷ × 25.73×10⁶ × 1.6×10⁻¹⁹) / 1.05×10⁻³⁴\n            κ = 1.57×10¹⁵ m⁻¹\n            \n            For barrier width a ≈ 10⁻¹⁴ m:\n            T = exp(-2 × 1.57×10¹⁵ × 10⁻¹⁴) = exp(-31.4) ≈ 2×10⁻¹⁴\n            ",
+      "source": "mathematical_generator",
+      "title": "Quantum Tunneling Probability",
+      "formulas": [
+        "T = exp(-2∫_{x1}^{x2} √(2m(V(x)-E))/ℏ dx)"
+      ],
+      "nuclides": [
+        "U-238"
+      ],
+      "concepts": [
+        "alpha decay"
+      ],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:07.067017",
+      "imported_at": "2025-11-20T07:07:07.067017"
+    },
+    {
+      "content": "[L̂_i, L̂_j] = iℏε_{ijk} L̂_k\n\nDerivation:\n\n            Angular momentum: L = r × p\n            \n            Quantum operators:\n            L̂_x = -iℏ(y∂/∂z - z∂/∂y)\n            L̂_y = -iℏ(z∂/∂x - x∂/∂z)\n            L̂_z = -iℏ(x∂/∂y - y∂/∂x)\n            \n            Commutation relations:\n            [L̂_x, L̂_y] = iℏL̂_z\n            [L̂_y, L̂_z] = iℏL̂_x\n            [L̂_z, L̂_x] = iℏL̂_y\n            \n            General form: [L̂_i, L̂_j] = iℏε_{ijk} L̂_k\n            \n            Eigenvalues: L² = ℏ²l(l+1), L_z = ℏm\n            \n\nExample:\n\n            For p-orbital (l=1):\n            L² = ℏ² × 1 × 2 = 2ℏ²\n            L_z = -ℏ, 0, or +ℏ (m = -1, 0, 1)\n            ",
+      "source": "mathematical_generator",
+      "title": "Angular Momentum Operators",
+      "formulas": [
+        "[L̂_i, L̂_j] = iℏε_{ijk} L̂_k"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:07.067019",
+      "imported_at": "2025-11-20T07:07:07.067020"
+    },
+    {
+      "content": "L_QCD = ψ̄(iγ^μD_μ - m)ψ - (1/4)G^a_{μν}G^{aμν}\n\nDerivation:\n\n            Quantum Chromodynamics describes strong interactions:\n            \n            Covariant derivative: D_μ = ∂_μ + igA^a_μT^a\n            \n            Field strength tensor:\n            G^a_{μν} = ∂_μA^a_ν - ∂_νA^a_μ + gf^{abc}A^b_μA^c_ν\n            \n            Where:\n            - g = strong coupling constant\n            - T^a = SU(3) generators (Gell-Mann matrices)\n            - f^{abc} = structure constants\n            - A^a_μ = gluon fields\n            \n            The Lagrangian includes:\n            1. Quark kinetic and mass terms\n            2. Gluon kinetic term\n            3. Self-interactions (3-gluon, 4-gluon vertices)\n            \n\nExample:\n\n            At high energies (Q² >> Λ²_QCD):\n            α_s(Q²) = 12π / ((33-2n_f)ln(Q²/Λ²_QCD))\n            \n            Where n_f = number of flavors, Λ_QCD ≈ 200 MeV\n            ",
+      "source": "mathematical_generator",
+      "title": "QCD Lagrangian",
+      "formulas": [
+        "L_QCD = ψ̄(iγ^μD_μ - m)ψ - (1/4)G^a_{μν}G^{aμν}"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_field_theory",
+        "quantum_field_theory",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_field_theory",
+      "category": "quantum_field_theory",
+      "publication_date": "2025-11-20T07:07:07.067021",
+      "imported_at": "2025-11-20T07:07:07.067022"
+    },
+    {
+      "content": "V(r) = (g²/4π)(e^(-m_πr)/r)\n\nDerivation:\n\n            From Yukawa potential (exchange of massive particle):\n            \n            V(r) = -g²/(4π) × e^(-mr)/r\n            \n            For pion exchange (m_π ≈ 140 MeV/c²):\n            V(r) = (g²/4π)(e^(-m_πr)/r)\n            \n            Where g = pion-nucleon coupling constant ≈ 13.5\n            \n            Range: R = 1/m_π ≈ 1.4 fm\n            \n            This gives the long-range part of nuclear force\n            \n\nExample:\n\n            At r = 1 fm:\n            V(1 fm) = (13.5²/4π) × e^(-140×1.4/197) / 1\n            V(1 fm) = 14.5 × e^(-0.995) ≈ 5.4 MeV\n            ",
+      "source": "mathematical_generator",
+      "title": "Nuclear Force from Pion Exchange",
+      "formulas": [
+        "V(r) = (g²/4π)(e^(-m_πr)/r)"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_field_theory",
+        "quantum_field_theory",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_field_theory",
+      "category": "quantum_field_theory",
+      "publication_date": "2025-11-20T07:07:07.067023",
+      "imported_at": "2025-11-20T07:07:07.067024"
+    },
+    {
+      "content": "Q_fission = (M_parent - ΣM_products)c²\n\nDerivation:\n\n            From mass-energy equivalence E = mc²:\n            \n            Q = (m_initial - m_final)c²\n            \n            For fission: U-235 + n → fragments + neutrons\n            \n            Q = [m(U-235) + m(n) - Σm(fragments) - Σm(neutrons)]c²\n            \n            Typical: Q ≈ 200 MeV per fission\n            \n            Energy distribution:\n            - Kinetic energy of fragments: ~165 MeV\n            - Neutron kinetic energy: ~5 MeV\n            - Prompt gamma rays: ~7 MeV\n            - Beta decay: ~7 MeV\n            - Neutrino energy: ~12 MeV (not recoverable)\n            \n\nExample:\n\n            For U-235 fission:\n            m(U-235) = 235.0439299 u\n            m(n) = 1.0086649 u\n            m(Ba-141) = 140.914411 u\n            m(Kr-92) = 91.926156 u\n            m(3n) = 3.0259947 u\n            \n            Q = (236.0525948 - 234.8665617) × 931.494 MeV/u\n            Q = 1.1860331 × 931.494 = 1105 MeV\n            \n            But actual Q ≈ 200 MeV (difference due to excited states)\n            ",
+      "source": "mathematical_generator",
+      "title": "Fission Energy Release",
+      "formulas": [
+        "Q_fission = (M_parent - ΣM_products)c²"
+      ],
+      "nuclides": [
+        "U-235",
+        "Ba-141",
+        "Kr-92"
+      ],
+      "concepts": [
+        "fission",
+        "beta decay"
+      ],
+      "keywords": [
+        "fission",
+        "nuclear_reactions",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "nuclear_reactions",
+      "category": "fission",
+      "publication_date": "2025-11-20T07:07:07.067026",
+      "imported_at": "2025-11-20T07:07:07.067027"
+    },
+    {
+      "content": "φ = nv\n\nDerivation:\n\n            Neutron flux: φ = neutron density × velocity\n            \n            Reaction rate: R = φΣ = nvΣ\n            \n            Where:\n            - n = neutron density (neutrons/cm³)\n            - v = neutron velocity (cm/s)\n            - Σ = macroscopic cross section (cm⁻¹)\n            - φ = flux (neutrons/cm²/s)\n            \n            For thermal neutrons (E = 0.025 eV):\n            v = √(2E/m) = √(2 × 0.025 × 1.6×10⁻¹⁹ / 1.67×10⁻²⁷)\n            v = 2.2×10⁵ cm/s\n            \n\nExample:\n\n            In reactor core:\n            n = 10¹⁴ neutrons/cm³\n            v = 2.2×10⁵ cm/s (thermal)\n            \n            φ = 10¹⁴ × 2.2×10⁵ = 2.2×10¹⁹ neutrons/cm²/s\n            \n            For U-235 (σ_f = 585 barns):\n            Σ_f = N × σ_f = 0.048 × 10²⁴ × 585×10⁻²⁴ = 28.08 cm⁻¹\n            \n            Fission rate: R = φΣ_f = 2.2×10¹⁹ × 28.08 = 6.18×10²⁰ fissions/cm³/s\n            ",
+      "source": "mathematical_generator",
+      "title": "Neutron Flux",
+      "formulas": [
+        "φ = nv"
+      ],
+      "nuclides": [
+        "U-235"
+      ],
+      "concepts": [
+        "cross section",
+        "fission"
+      ],
+      "keywords": [
+        "neutron_physics",
+        "reactor_physics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "reactor_physics",
+      "category": "neutron_physics",
+      "publication_date": "2025-11-20T07:07:07.067028",
+      "imported_at": "2025-11-20T07:07:07.067029"
+    },
+    {
+      "content": "N(E) dE = (G²|M|²/2π³ℏ⁷c³) p_e E_e (E₀ - E_e)² F(Z,E_e) dE\n\nDerivation:\n\n            From Fermi's Golden Rule:\n            \n            Transition rate: λ = (2π/ℏ)|M|² ρ(E)\n            \n            For beta decay: n → p + e⁻ + ν̄\n            \n            Phase space factor:\n            ρ(E) ∝ p_e E_e (E₀ - E_e)²\n            \n            With Fermi function F(Z,E_e) for Coulomb correction:\n            \n            N(E) dE = (G²|M|²/2π³ℏ⁷c³) p_e E_e (E₀ - E_e)² F(Z,E_e) dE\n            \n            Where:\n            - G = Fermi coupling constant\n            - |M|² = nuclear matrix element\n            - E₀ = maximum beta energy (Q-value)\n            - p_e = electron momentum\n            \n\nExample:\n\n            For C-14 beta decay (Q = 156 keV):\n            Maximum energy: E_max = 156 keV\n            \n            Average energy: ⟨E⟩ ≈ E_max/3 = 52 keV\n            \n            Half-life: T_1/2 = 5730 years\n            ",
+      "source": "mathematical_generator",
+      "title": "Beta Decay Energy Spectrum",
+      "formulas": [
+        "N(E) dE = (G²|M|²/2π³ℏ⁷c³) p_e E_e (E₀ - E_e)² F(Z,E_e) dE"
+      ],
+      "nuclides": [
+        "C-14"
+      ],
+      "concepts": [
+        "beta decay"
+      ],
+      "keywords": [
+        "decay",
+        "decay_processes",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "decay_processes",
+      "category": "decay",
+      "publication_date": "2025-11-20T07:07:07.067030",
+      "imported_at": "2025-11-20T07:07:07.067031"
+    },
+    {
+      "content": "dσ/dΩ = |f(θ)|²\n\nDerivation:\n\n            Scattering amplitude:\n            f(θ) = (1/2ik) Σ_l (2l+1)(e^(2iδ_l) - 1)P_l(cos θ)\n            \n            Differential cross section:\n            dσ/dΩ = |f(θ)|²\n            \n            Total cross section (optical theorem):\n            σ_total = (4π/k) Im[f(0)] = (4π/k²) Σ_l (2l+1) sin²(δ_l)\n            \n            Elastic cross section:\n            σ_elastic = (4π/k²) Σ_l (2l+1) |e^(2iδ_l) - 1|²/4\n            \n            Inelastic cross section:\n            σ_inelastic = (π/k²) Σ_l (2l+1)(1 - |S_l|²)\n            \n\nExample:\n\n            For s-wave scattering (l=0):\n            f(θ) = (e^(2iδ₀) - 1)/(2ik) = sin(δ₀)e^(iδ₀)/k\n            \n            dσ/dΩ = sin²(δ₀)/k² (isotropic)\n            \n            σ_total = 4π sin²(δ₀)/k²\n            ",
+      "source": "mathematical_generator",
+      "title": "Differential Scattering Cross Section",
+      "formulas": [
+        "dσ/dΩ = |f(θ)|²"
+      ],
+      "nuclides": [],
+      "concepts": [
+        "cross section"
+      ],
+      "keywords": [
+        "scattering",
+        "nuclear_reactions",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "nuclear_reactions",
+      "category": "scattering",
+      "publication_date": "2025-11-20T07:07:07.067033",
+      "imported_at": "2025-11-20T07:07:07.067034"
+    },
+    {
+      "content": "K(x',t';x,t) = ∫D[x(t)] exp(iS[x(t)]/ℏ)\n\nDerivation:\n\n            Feynman's path integral:\n            \n            Propagator: K(x',t';x,t) = ⟨x'|e^(-iĤ(t'-t)/ℏ)|x⟩\n            \n            Discretizing time: t₀, t₁, ..., t_N\n            \n            K = lim_{N→∞} ∫...∫ dx₁...dx_{N-1} Π_{i=0}^{N-1} ⟨x_{i+1}|e^(-iĤε/ℏ)|x_i⟩\n            \n            Where ε = (t'-t)/N\n            \n            In the limit: K = ∫D[x(t)] exp(iS/ℏ)\n            \n            Action: S = ∫_{t}^{t'} L(x, ẋ, t) dt\n            \n            This gives quantum amplitude as sum over all paths\n            \n\nExample:\n\n            For free particle (L = mẋ²/2):\n            K(x',t';x,t) = √(m/2πiℏ(t'-t)) exp(im(x'-x)²/2ℏ(t'-t))\n            ",
+      "source": "mathematical_generator",
+      "title": "Path Integral Formulation",
+      "formulas": [
+        "K(x',t';x,t) = ∫D[x(t)] exp(iS[x(t)]/ℏ)"
+      ],
+      "nuclides": [
+        "N-1"
+      ],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:07.067035",
+      "imported_at": "2025-11-20T07:07:07.067036"
+    },
+    {
+      "content": "ρ = Σ_i p_i |ψ_i⟩⟨ψ_i|\n\nDerivation:\n\n            For mixed state (statistical ensemble):\n            \n            Density operator: ρ = Σ_i p_i |ψ_i⟩⟨ψ_i|\n            \n            Where p_i = probability of state |ψ_i⟩\n            \n            Properties:\n            - Tr(ρ) = 1 (normalization)\n            - ρ = ρ† (Hermitian)\n            - Tr(ρ²) ≤ 1 (equality for pure states)\n            \n            Expectation value: ⟨A⟩ = Tr(ρA)\n            \n            Time evolution: iℏ dρ/dt = [Ĥ, ρ]\n            \n\nExample:\n\n            For thermal equilibrium:\n            ρ = exp(-Ĥ/kT) / Tr(exp(-Ĥ/kT))\n            \n            This is the canonical ensemble density matrix\n            ",
+      "source": "mathematical_generator",
+      "title": "Density Matrix",
+      "formulas": [
+        "ρ = Σ_i p_i |ψ_i⟩⟨ψ_i|"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:07.067037",
+      "imported_at": "2025-11-20T07:07:07.067038"
+    },
+    {
+      "content": "c_f(t) = -(i/ℏ)∫₀ᵗ ⟨f|H'(t')|i⟩ e^(iω_fi t') dt'\n\nDerivation:\n\n            For perturbation H'(t):\n            \n            Wave function: |ψ(t)⟩ = Σ_n c_n(t) e^(-iE_n t/ℏ)|n⟩\n            \n            Substituting into Schrödinger equation:\n            \n            iℏ dc_f/dt = Σ_n ⟨f|H'|n⟩ c_n e^(iω_fn t)\n            \n            First order (c_n ≈ δ_ni):\n            c_f(t) = -(i/ℏ)∫₀ᵗ ⟨f|H'(t')|i⟩ e^(iω_fi t') dt'\n            \n            Transition probability: P_{i→f} = |c_f(t)|²\n            \n            Where ω_fi = (E_f - E_i)/ℏ\n            \n\nExample:\n\n            For constant perturbation H'(t) = H':\n            c_f(t) = -(i/ℏ)⟨f|H'|i⟩ ∫₀ᵗ e^(iω_fi t') dt'\n            c_f(t) = -(i/ℏ)⟨f|H'|i⟩ (e^(iω_fi t) - 1)/(iω_fi)\n            \n            P_{i→f} = |⟨f|H'|i⟩|² sin²(ω_fi t/2)/(ℏ²ω_fi²)\n            ",
+      "source": "mathematical_generator",
+      "title": "Time-Dependent Perturbation Theory",
+      "formulas": [
+        "c_f(t) = -(i/ℏ)∫₀ᵗ ⟨f|H'(t')|i⟩ e^(iω_fi t') dt'"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:07.067040",
+      "imported_at": "2025-11-20T07:07:07.067040"
+    },
+    {
+      "content": "B = a_v*A - a_s*A^(2/3) - a_c*Z²/A^(1/3) - a_a*(A-2Z)²/A + δ\n\nDerivation:\n\n            Starting from the liquid drop model:\n            \n            Volume term: B_v = a_v * A\n            Surface term: B_s = -a_s * A^(2/3)\n            Coulomb term: B_c = -a_c * Z²/A^(1/3)\n            Asymmetry term: B_a = -a_a * (A-2Z)²/A\n            Pairing term: B_p = δ\n            \n            Where:\n            - a_v = 15.8 MeV (volume coefficient)\n            - a_s = 18.3 MeV (surface coefficient)\n            - a_c = 0.714 MeV (Coulomb coefficient)\n            - a_a = 23.2 MeV (asymmetry coefficient)\n            - δ = 12 MeV/√A for even-even, -12 MeV/√A for odd-odd, 0 for odd-A\n            \n\nExample:\n\n            For U-235 (Z=92, A=235):\n            B = 15.8*235 - 18.3*235^(2/3) - 0.714*92²/235^(1/3) - 23.2*(235-184)²/235 + 12/√235\n            B = 3713 - 18.3*38.1 - 0.714*8464/6.18 - 23.2*2601/235 + 0.783\n            B = 3713 - 697 - 978 - 257 + 0.783\n            B = 1782 MeV\n            ",
+      "source": "mathematical_generator",
+      "title": "Semi-Empirical Mass Formula (Complete)",
+      "formulas": [
+        "B = a_v*A - a_s*A^(2/3) - a_c*Z²/A^(1/3) - a_a*(A-2Z)²/A + δ"
+      ],
+      "nuclides": [
+        "U-235"
+      ],
+      "concepts": [
+        "liquid drop model"
+      ],
+      "keywords": [
+        "binding_energy",
+        "nuclear_structure",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "nuclear_structure",
+      "category": "binding_energy",
+      "publication_date": "2025-11-20T07:07:15.760412",
+      "imported_at": "2025-11-20T07:07:15.760423"
+    },
+    {
+      "content": "k_eff = η × ε × p × f\n\nDerivation:\n\n            Neutron multiplication factor:\n            \n            η (eta) = ν * σ_f / (σ_f + σ_c) = average neutrons per fission / (fission + capture)\n            ε (epsilon) = fast fission factor = (total fast fissions) / (thermal fissions)\n            p = resonance escape probability = exp(-N*I*ξ*Σ_s/Σ_a)\n            f = thermal utilization = Σ_a_fuel / Σ_a_total\n            \n            Where:\n            - ν = average neutrons per fission (~2.4 for U-235)\n            - σ_f = fission cross section\n            - σ_c = capture cross section\n            - N = number density\n            - I = resonance integral\n            - ξ = average logarithmic energy decrement\n            \n\nExample:\n\n            For U-235 thermal reactor:\n            η = 2.4 * 585 / (585 + 99) = 2.06\n            ε ≈ 1.03 (slight fast fission)\n            p ≈ 0.9 (resonance escape)\n            f ≈ 0.8 (thermal utilization)\n            \n            k_eff = 2.06 × 1.03 × 0.9 × 0.8 = 1.53\n            ",
+      "source": "mathematical_generator",
+      "title": "Four-Factor Formula",
+      "formulas": [
+        "k_eff = η × ε × p × f"
+      ],
+      "nuclides": [
+        "U-235"
+      ],
+      "concepts": [
+        "cross section",
+        "fission"
+      ],
+      "keywords": [
+        "criticality",
+        "reactor_physics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "reactor_physics",
+      "category": "criticality",
+      "publication_date": "2025-11-20T07:07:15.760426",
+      "imported_at": "2025-11-20T07:07:15.760427"
+    },
+    {
+      "content": "D∇²φ - Σ_a φ + (1/k)νΣ_f φ = 0\n\nDerivation:\n\n            Starting from neutron balance:\n            \n            Rate of change = Production - Absorption - Leakage\n            \n            ∂φ/∂t = S - Σ_a φ - ∇·J\n            \n            Where J = -D∇φ (Fick's law)\n            \n            For steady state (∂φ/∂t = 0) and critical system:\n            \n            D∇²φ - Σ_a φ + S = 0\n            \n            With source S = (1/k)νΣ_f φ (fission neutrons):\n            \n            D∇²φ - Σ_a φ + (1/k)νΣ_f φ = 0\n            \n            Rearranging:\n            ∇²φ + B²φ = 0\n            \n            Where B² = (νΣ_f/k - Σ_a)/D is the material buckling\n            \n\nExample:\n\n            For spherical geometry with radius R:\n            φ(r) = A * sin(Br) / r\n            \n            Critical condition: B = π/R\n            \n            Critical radius: R_c = π/B = π√(D/(νΣ_f - Σ_a))\n            ",
+      "source": "mathematical_generator",
+      "title": "Neutron Diffusion Equation",
+      "formulas": [
+        "D∇²φ - Σ_a φ + (1/k)νΣ_f φ = 0"
+      ],
+      "nuclides": [],
+      "concepts": [
+        "fission"
+      ],
+      "keywords": [
+        "neutron_transport",
+        "reactor_physics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "reactor_physics",
+      "category": "neutron_transport",
+      "publication_date": "2025-11-20T07:07:15.760430",
+      "imported_at": "2025-11-20T07:07:15.760431"
+    },
+    {
+      "content": "σ = (π/k²)(2J+1)/(2s+1)(2I+1) × T_l\n\nDerivation:\n\n            From quantum scattering theory:\n            \n            Partial wave expansion:\n            σ_l = (π/k²)(2l+1) |1 - S_l|²\n            \n            For nuclear reactions with spin:\n            σ = Σ_l σ_l × (2J+1)/(2s+1)(2I+1)\n            \n            Where:\n            - k = √(2mE)/ℏ (wave number)\n            - J = total angular momentum\n            - s = projectile spin\n            - I = target spin\n            - T_l = transmission coefficient = 1 - |S_l|²\n            - S_l = S-matrix element\n            \n\nExample:\n\n            For neutron capture on U-238 (I=0, s=1/2):\n            At resonance E_r = 6.67 eV:\n            \n            σ_resonance = (π/k²)(2J+1) × Γ_n Γ_γ / [(E - E_r)² + (Γ/2)²]\n            \n            With Γ_n = 1.3 meV, Γ_γ = 23 meV, Γ = 24.3 meV:\n            σ_max = (π/k²)(2J+1) × 4Γ_n Γ_γ / Γ²\n            ",
+      "source": "mathematical_generator",
+      "title": "Reaction Cross Section",
+      "formulas": [
+        "σ = (π/k²)(2J+1)/(2s+1)(2I+1) × T_l"
+      ],
+      "nuclides": [
+        "U-238"
+      ],
+      "concepts": [
+        "neutron capture"
+      ],
+      "keywords": [
+        "nuclear_reactions",
+        "nuclear_reactions",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "nuclear_reactions",
+      "category": "nuclear_reactions",
+      "publication_date": "2025-11-20T07:07:15.760432",
+      "imported_at": "2025-11-20T07:07:15.760433"
+    },
+    {
+      "content": "N(t) = N₀ e^(-λt)\n\nDerivation:\n\n            From probability theory:\n            \n            dN/dt = -λN\n            \n            Solving the differential equation:\n            ∫ dN/N = -λ ∫ dt\n            ln(N) = -λt + C\n            N(t) = N₀ e^(-λt)\n            \n            Where:\n            - λ = decay constant = ln(2)/T_1/2\n            - T_1/2 = half-life\n            - Activity A(t) = λN(t) = λN₀ e^(-λt)\n            \n\nExample:\n\n            For U-238 (T_1/2 = 4.47×10⁹ years):\n            λ = ln(2) / (4.47×10⁹ × 365.25 × 24 × 3600) = 4.92×10⁻¹⁸ s⁻¹\n            \n            After 1 billion years:\n            N(10⁹) = N₀ e^(-4.92×10⁻¹⁸ × 10⁹ × 365.25 × 24 × 3600)\n            N(10⁹) = N₀ e^(-0.155) = 0.856 N₀\n            ",
+      "source": "mathematical_generator",
+      "title": "Radioactive Decay Law",
+      "formulas": [
+        "N(t) = N₀ e^(-λt)"
+      ],
+      "nuclides": [
+        "U-238"
+      ],
+      "concepts": [],
+      "keywords": [
+        "decay",
+        "decay_processes",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "decay_processes",
+      "category": "decay",
+      "publication_date": "2025-11-20T07:07:15.760435",
+      "imported_at": "2025-11-20T07:07:15.760435"
+    },
+    {
+      "content": "iℏ ∂ψ/∂t = Ĥψ\n\nDerivation:\n\n            From de Broglie hypothesis: p = ℏk, E = ℏω\n            \n            Wave function: ψ(x,t) = A exp(i(kx - ωt))\n            \n            Operators:\n            p̂ = -iℏ∇, Ê = iℏ∂/∂t\n            \n            Energy operator: Ĥ = p̂²/(2m) + V(x) = -ℏ²/(2m)∇² + V(x)\n            \n            Substituting: iℏ ∂ψ/∂t = Ĥψ\n            \n            For stationary states: ψ(x,t) = φ(x)e^(-iEt/ℏ)\n            \n            Time-independent form: Ĥφ = Eφ\n            \n\nExample:\n\n            For hydrogen atom (V(r) = -e²/(4πε₀r)):\n            \n            Ĥ = -ℏ²/(2m)∇² - e²/(4πε₀r)\n            \n            Eigenvalues: E_n = -13.6 eV / n²\n            \n            Ground state (n=1): E₁ = -13.6 eV\n            ",
+      "source": "mathematical_generator",
+      "title": "Time-Dependent Schrödinger Equation",
+      "formulas": [
+        "iℏ ∂ψ/∂t = Ĥψ"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:15.760437",
+      "imported_at": "2025-11-20T07:07:15.760438"
+    },
+    {
+      "content": "Δx · Δp ≥ ℏ/2\n\nDerivation:\n\n            From commutation relation: [x̂, p̂] = iℏ\n            \n            For any two operators: ΔA · ΔB ≥ |⟨[A,B]⟩|/2\n            \n            Therefore: Δx · Δp ≥ ℏ/2\n            \n            Similarly: ΔE · Δt ≥ ℏ/2\n            \n            This is fundamental - not a measurement limitation but a property of quantum systems\n            \n\nExample:\n\n            For electron in atom (Δx ≈ 0.1 nm):\n            Δp ≥ ℏ/(2Δx) = 1.05×10⁻³⁴ / (2 × 10⁻¹⁰) = 5.25×10⁻²⁵ kg·m/s\n            \n            Δv = Δp/m = 5.25×10⁻²⁵ / 9.11×10⁻³¹ = 5.76×10⁵ m/s\n            ",
+      "source": "mathematical_generator",
+      "title": "Heisenberg Uncertainty Principle",
+      "formulas": [
+        "Δx · Δp ≥ ℏ/2"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:15.760439",
+      "imported_at": "2025-11-20T07:07:15.760440"
+    },
+    {
+      "content": "T = exp(-2∫_{x1}^{x2} √(2m(V(x)-E))/ℏ dx)\n\nDerivation:\n\n            For potential barrier V(x) > E:\n            \n            In classically forbidden region, wave function:\n            ψ(x) = A exp(-κx) + B exp(κx)\n            \n            Where κ = √(2m(V-E))/ℏ\n            \n            Transmission coefficient:\n            T = |t|² = exp(-2κa) for rectangular barrier of width a\n            \n            For general barrier:\n            T ≈ exp(-2∫_{x1}^{x2} κ(x) dx)\n            \n\nExample:\n\n            For alpha decay of U-238:\n            Barrier height V₀ ≈ 30 MeV, Q-value ≈ 4.27 MeV\n            \n            κ = √(2m_α(V₀ - Q))/ℏ = √(2 × 6.64×10⁻²⁷ × 25.73×10⁶ × 1.6×10⁻¹⁹) / 1.05×10⁻³⁴\n            κ = 1.57×10¹⁵ m⁻¹\n            \n            For barrier width a ≈ 10⁻¹⁴ m:\n            T = exp(-2 × 1.57×10¹⁵ × 10⁻¹⁴) = exp(-31.4) ≈ 2×10⁻¹⁴\n            ",
+      "source": "mathematical_generator",
+      "title": "Quantum Tunneling Probability",
+      "formulas": [
+        "T = exp(-2∫_{x1}^{x2} √(2m(V(x)-E))/ℏ dx)"
+      ],
+      "nuclides": [
+        "U-238"
+      ],
+      "concepts": [
+        "alpha decay"
+      ],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:15.760442",
+      "imported_at": "2025-11-20T07:07:15.760442"
+    },
+    {
+      "content": "[L̂_i, L̂_j] = iℏε_{ijk} L̂_k\n\nDerivation:\n\n            Angular momentum: L = r × p\n            \n            Quantum operators:\n            L̂_x = -iℏ(y∂/∂z - z∂/∂y)\n            L̂_y = -iℏ(z∂/∂x - x∂/∂z)\n            L̂_z = -iℏ(x∂/∂y - y∂/∂x)\n            \n            Commutation relations:\n            [L̂_x, L̂_y] = iℏL̂_z\n            [L̂_y, L̂_z] = iℏL̂_x\n            [L̂_z, L̂_x] = iℏL̂_y\n            \n            General form: [L̂_i, L̂_j] = iℏε_{ijk} L̂_k\n            \n            Eigenvalues: L² = ℏ²l(l+1), L_z = ℏm\n            \n\nExample:\n\n            For p-orbital (l=1):\n            L² = ℏ² × 1 × 2 = 2ℏ²\n            L_z = -ℏ, 0, or +ℏ (m = -1, 0, 1)\n            ",
+      "source": "mathematical_generator",
+      "title": "Angular Momentum Operators",
+      "formulas": [
+        "[L̂_i, L̂_j] = iℏε_{ijk} L̂_k"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:15.760444",
+      "imported_at": "2025-11-20T07:07:15.760445"
+    },
+    {
+      "content": "L_QCD = ψ̄(iγ^μD_μ - m)ψ - (1/4)G^a_{μν}G^{aμν}\n\nDerivation:\n\n            Quantum Chromodynamics describes strong interactions:\n            \n            Covariant derivative: D_μ = ∂_μ + igA^a_μT^a\n            \n            Field strength tensor:\n            G^a_{μν} = ∂_μA^a_ν - ∂_νA^a_μ + gf^{abc}A^b_μA^c_ν\n            \n            Where:\n            - g = strong coupling constant\n            - T^a = SU(3) generators (Gell-Mann matrices)\n            - f^{abc} = structure constants\n            - A^a_μ = gluon fields\n            \n            The Lagrangian includes:\n            1. Quark kinetic and mass terms\n            2. Gluon kinetic term\n            3. Self-interactions (3-gluon, 4-gluon vertices)\n            \n\nExample:\n\n            At high energies (Q² >> Λ²_QCD):\n            α_s(Q²) = 12π / ((33-2n_f)ln(Q²/Λ²_QCD))\n            \n            Where n_f = number of flavors, Λ_QCD ≈ 200 MeV\n            ",
+      "source": "mathematical_generator",
+      "title": "QCD Lagrangian",
+      "formulas": [
+        "L_QCD = ψ̄(iγ^μD_μ - m)ψ - (1/4)G^a_{μν}G^{aμν}"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_field_theory",
+        "quantum_field_theory",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_field_theory",
+      "category": "quantum_field_theory",
+      "publication_date": "2025-11-20T07:07:15.760446",
+      "imported_at": "2025-11-20T07:07:15.760447"
+    },
+    {
+      "content": "V(r) = (g²/4π)(e^(-m_πr)/r)\n\nDerivation:\n\n            From Yukawa potential (exchange of massive particle):\n            \n            V(r) = -g²/(4π) × e^(-mr)/r\n            \n            For pion exchange (m_π ≈ 140 MeV/c²):\n            V(r) = (g²/4π)(e^(-m_πr)/r)\n            \n            Where g = pion-nucleon coupling constant ≈ 13.5\n            \n            Range: R = 1/m_π ≈ 1.4 fm\n            \n            This gives the long-range part of nuclear force\n            \n\nExample:\n\n            At r = 1 fm:\n            V(1 fm) = (13.5²/4π) × e^(-140×1.4/197) / 1\n            V(1 fm) = 14.5 × e^(-0.995) ≈ 5.4 MeV\n            ",
+      "source": "mathematical_generator",
+      "title": "Nuclear Force from Pion Exchange",
+      "formulas": [
+        "V(r) = (g²/4π)(e^(-m_πr)/r)"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_field_theory",
+        "quantum_field_theory",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_field_theory",
+      "category": "quantum_field_theory",
+      "publication_date": "2025-11-20T07:07:15.760448",
+      "imported_at": "2025-11-20T07:07:15.760449"
+    },
+    {
+      "content": "Q_fission = (M_parent - ΣM_products)c²\n\nDerivation:\n\n            From mass-energy equivalence E = mc²:\n            \n            Q = (m_initial - m_final)c²\n            \n            For fission: U-235 + n → fragments + neutrons\n            \n            Q = [m(U-235) + m(n) - Σm(fragments) - Σm(neutrons)]c²\n            \n            Typical: Q ≈ 200 MeV per fission\n            \n            Energy distribution:\n            - Kinetic energy of fragments: ~165 MeV\n            - Neutron kinetic energy: ~5 MeV\n            - Prompt gamma rays: ~7 MeV\n            - Beta decay: ~7 MeV\n            - Neutrino energy: ~12 MeV (not recoverable)\n            \n\nExample:\n\n            For U-235 fission:\n            m(U-235) = 235.0439299 u\n            m(n) = 1.0086649 u\n            m(Ba-141) = 140.914411 u\n            m(Kr-92) = 91.926156 u\n            m(3n) = 3.0259947 u\n            \n            Q = (236.0525948 - 234.8665617) × 931.494 MeV/u\n            Q = 1.1860331 × 931.494 = 1105 MeV\n            \n            But actual Q ≈ 200 MeV (difference due to excited states)\n            ",
+      "source": "mathematical_generator",
+      "title": "Fission Energy Release",
+      "formulas": [
+        "Q_fission = (M_parent - ΣM_products)c²"
+      ],
+      "nuclides": [
+        "U-235",
+        "Ba-141",
+        "Kr-92"
+      ],
+      "concepts": [
+        "fission",
+        "beta decay"
+      ],
+      "keywords": [
+        "fission",
+        "nuclear_reactions",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "nuclear_reactions",
+      "category": "fission",
+      "publication_date": "2025-11-20T07:07:15.760451",
+      "imported_at": "2025-11-20T07:07:15.760452"
+    },
+    {
+      "content": "φ = nv\n\nDerivation:\n\n            Neutron flux: φ = neutron density × velocity\n            \n            Reaction rate: R = φΣ = nvΣ\n            \n            Where:\n            - n = neutron density (neutrons/cm³)\n            - v = neutron velocity (cm/s)\n            - Σ = macroscopic cross section (cm⁻¹)\n            - φ = flux (neutrons/cm²/s)\n            \n            For thermal neutrons (E = 0.025 eV):\n            v = √(2E/m) = √(2 × 0.025 × 1.6×10⁻¹⁹ / 1.67×10⁻²⁷)\n            v = 2.2×10⁵ cm/s\n            \n\nExample:\n\n            In reactor core:\n            n = 10¹⁴ neutrons/cm³\n            v = 2.2×10⁵ cm/s (thermal)\n            \n            φ = 10¹⁴ × 2.2×10⁵ = 2.2×10¹⁹ neutrons/cm²/s\n            \n            For U-235 (σ_f = 585 barns):\n            Σ_f = N × σ_f = 0.048 × 10²⁴ × 585×10⁻²⁴ = 28.08 cm⁻¹\n            \n            Fission rate: R = φΣ_f = 2.2×10¹⁹ × 28.08 = 6.18×10²⁰ fissions/cm³/s\n            ",
+      "source": "mathematical_generator",
+      "title": "Neutron Flux",
+      "formulas": [
+        "φ = nv"
+      ],
+      "nuclides": [
+        "U-235"
+      ],
+      "concepts": [
+        "cross section",
+        "fission"
+      ],
+      "keywords": [
+        "neutron_physics",
+        "reactor_physics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "reactor_physics",
+      "category": "neutron_physics",
+      "publication_date": "2025-11-20T07:07:15.760453",
+      "imported_at": "2025-11-20T07:07:15.760454"
+    },
+    {
+      "content": "N(E) dE = (G²|M|²/2π³ℏ⁷c³) p_e E_e (E₀ - E_e)² F(Z,E_e) dE\n\nDerivation:\n\n            From Fermi's Golden Rule:\n            \n            Transition rate: λ = (2π/ℏ)|M|² ρ(E)\n            \n            For beta decay: n → p + e⁻ + ν̄\n            \n            Phase space factor:\n            ρ(E) ∝ p_e E_e (E₀ - E_e)²\n            \n            With Fermi function F(Z,E_e) for Coulomb correction:\n            \n            N(E) dE = (G²|M|²/2π³ℏ⁷c³) p_e E_e (E₀ - E_e)² F(Z,E_e) dE\n            \n            Where:\n            - G = Fermi coupling constant\n            - |M|² = nuclear matrix element\n            - E₀ = maximum beta energy (Q-value)\n            - p_e = electron momentum\n            \n\nExample:\n\n            For C-14 beta decay (Q = 156 keV):\n            Maximum energy: E_max = 156 keV\n            \n            Average energy: ⟨E⟩ ≈ E_max/3 = 52 keV\n            \n            Half-life: T_1/2 = 5730 years\n            ",
+      "source": "mathematical_generator",
+      "title": "Beta Decay Energy Spectrum",
+      "formulas": [
+        "N(E) dE = (G²|M|²/2π³ℏ⁷c³) p_e E_e (E₀ - E_e)² F(Z,E_e) dE"
+      ],
+      "nuclides": [
+        "C-14"
+      ],
+      "concepts": [
+        "beta decay"
+      ],
+      "keywords": [
+        "decay",
+        "decay_processes",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "decay_processes",
+      "category": "decay",
+      "publication_date": "2025-11-20T07:07:15.760456",
+      "imported_at": "2025-11-20T07:07:15.760457"
+    },
+    {
+      "content": "dσ/dΩ = |f(θ)|²\n\nDerivation:\n\n            Scattering amplitude:\n            f(θ) = (1/2ik) Σ_l (2l+1)(e^(2iδ_l) - 1)P_l(cos θ)\n            \n            Differential cross section:\n            dσ/dΩ = |f(θ)|²\n            \n            Total cross section (optical theorem):\n            σ_total = (4π/k) Im[f(0)] = (4π/k²) Σ_l (2l+1) sin²(δ_l)\n            \n            Elastic cross section:\n            σ_elastic = (4π/k²) Σ_l (2l+1) |e^(2iδ_l) - 1|²/4\n            \n            Inelastic cross section:\n            σ_inelastic = (π/k²) Σ_l (2l+1)(1 - |S_l|²)\n            \n\nExample:\n\n            For s-wave scattering (l=0):\n            f(θ) = (e^(2iδ₀) - 1)/(2ik) = sin(δ₀)e^(iδ₀)/k\n            \n            dσ/dΩ = sin²(δ₀)/k² (isotropic)\n            \n            σ_total = 4π sin²(δ₀)/k²\n            ",
+      "source": "mathematical_generator",
+      "title": "Differential Scattering Cross Section",
+      "formulas": [
+        "dσ/dΩ = |f(θ)|²"
+      ],
+      "nuclides": [],
+      "concepts": [
+        "cross section"
+      ],
+      "keywords": [
+        "scattering",
+        "nuclear_reactions",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "nuclear_reactions",
+      "category": "scattering",
+      "publication_date": "2025-11-20T07:07:15.760459",
+      "imported_at": "2025-11-20T07:07:15.760460"
+    },
+    {
+      "content": "K(x',t';x,t) = ∫D[x(t)] exp(iS[x(t)]/ℏ)\n\nDerivation:\n\n            Feynman's path integral:\n            \n            Propagator: K(x',t';x,t) = ⟨x'|e^(-iĤ(t'-t)/ℏ)|x⟩\n            \n            Discretizing time: t₀, t₁, ..., t_N\n            \n            K = lim_{N→∞} ∫...∫ dx₁...dx_{N-1} Π_{i=0}^{N-1} ⟨x_{i+1}|e^(-iĤε/ℏ)|x_i⟩\n            \n            Where ε = (t'-t)/N\n            \n            In the limit: K = ∫D[x(t)] exp(iS/ℏ)\n            \n            Action: S = ∫_{t}^{t'} L(x, ẋ, t) dt\n            \n            This gives quantum amplitude as sum over all paths\n            \n\nExample:\n\n            For free particle (L = mẋ²/2):\n            K(x',t';x,t) = √(m/2πiℏ(t'-t)) exp(im(x'-x)²/2ℏ(t'-t))\n            ",
+      "source": "mathematical_generator",
+      "title": "Path Integral Formulation",
+      "formulas": [
+        "K(x',t';x,t) = ∫D[x(t)] exp(iS[x(t)]/ℏ)"
+      ],
+      "nuclides": [
+        "N-1"
+      ],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:15.760461",
+      "imported_at": "2025-11-20T07:07:15.760462"
+    },
+    {
+      "content": "ρ = Σ_i p_i |ψ_i⟩⟨ψ_i|\n\nDerivation:\n\n            For mixed state (statistical ensemble):\n            \n            Density operator: ρ = Σ_i p_i |ψ_i⟩⟨ψ_i|\n            \n            Where p_i = probability of state |ψ_i⟩\n            \n            Properties:\n            - Tr(ρ) = 1 (normalization)\n            - ρ = ρ† (Hermitian)\n            - Tr(ρ²) ≤ 1 (equality for pure states)\n            \n            Expectation value: ⟨A⟩ = Tr(ρA)\n            \n            Time evolution: iℏ dρ/dt = [Ĥ, ρ]\n            \n\nExample:\n\n            For thermal equilibrium:\n            ρ = exp(-Ĥ/kT) / Tr(exp(-Ĥ/kT))\n            \n            This is the canonical ensemble density matrix\n            ",
+      "source": "mathematical_generator",
+      "title": "Density Matrix",
+      "formulas": [
+        "ρ = Σ_i p_i |ψ_i⟩⟨ψ_i|"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:15.760463",
+      "imported_at": "2025-11-20T07:07:15.760464"
+    },
+    {
+      "content": "c_f(t) = -(i/ℏ)∫₀ᵗ ⟨f|H'(t')|i⟩ e^(iω_fi t') dt'\n\nDerivation:\n\n            For perturbation H'(t):\n            \n            Wave function: |ψ(t)⟩ = Σ_n c_n(t) e^(-iE_n t/ℏ)|n⟩\n            \n            Substituting into Schrödinger equation:\n            \n            iℏ dc_f/dt = Σ_n ⟨f|H'|n⟩ c_n e^(iω_fn t)\n            \n            First order (c_n ≈ δ_ni):\n            c_f(t) = -(i/ℏ)∫₀ᵗ ⟨f|H'(t')|i⟩ e^(iω_fi t') dt'\n            \n            Transition probability: P_{i→f} = |c_f(t)|²\n            \n            Where ω_fi = (E_f - E_i)/ℏ\n            \n\nExample:\n\n            For constant perturbation H'(t) = H':\n            c_f(t) = -(i/ℏ)⟨f|H'|i⟩ ∫₀ᵗ e^(iω_fi t') dt'\n            c_f(t) = -(i/ℏ)⟨f|H'|i⟩ (e^(iω_fi t) - 1)/(iω_fi)\n            \n            P_{i→f} = |⟨f|H'|i⟩|² sin²(ω_fi t/2)/(ℏ²ω_fi²)\n            ",
+      "source": "mathematical_generator",
+      "title": "Time-Dependent Perturbation Theory",
+      "formulas": [
+        "c_f(t) = -(i/ℏ)∫₀ᵗ ⟨f|H'(t')|i⟩ e^(iω_fi t') dt'"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:15.760466",
+      "imported_at": "2025-11-20T07:07:15.760466"
+    },
+    {
+      "content": "B = a_v*A - a_s*A^(2/3) - a_c*Z²/A^(1/3) - a_a*(A-2Z)²/A + δ\n\nDerivation:\n\n            Starting from the liquid drop model:\n            \n            Volume term: B_v = a_v * A\n            Surface term: B_s = -a_s * A^(2/3)\n            Coulomb term: B_c = -a_c * Z²/A^(1/3)\n            Asymmetry term: B_a = -a_a * (A-2Z)²/A\n            Pairing term: B_p = δ\n            \n            Where:\n            - a_v = 15.8 MeV (volume coefficient)\n            - a_s = 18.3 MeV (surface coefficient)\n            - a_c = 0.714 MeV (Coulomb coefficient)\n            - a_a = 23.2 MeV (asymmetry coefficient)\n            - δ = 12 MeV/√A for even-even, -12 MeV/√A for odd-odd, 0 for odd-A\n            \n\nExample:\n\n            For U-235 (Z=92, A=235):\n            B = 15.8*235 - 18.3*235^(2/3) - 0.714*92²/235^(1/3) - 23.2*(235-184)²/235 + 12/√235\n            B = 3713 - 18.3*38.1 - 0.714*8464/6.18 - 23.2*2601/235 + 0.783\n            B = 3713 - 697 - 978 - 257 + 0.783\n            B = 1782 MeV\n            ",
+      "source": "mathematical_generator",
+      "title": "Semi-Empirical Mass Formula (Complete)",
+      "formulas": [
+        "B = a_v*A - a_s*A^(2/3) - a_c*Z²/A^(1/3) - a_a*(A-2Z)²/A + δ"
+      ],
+      "nuclides": [
+        "U-235"
+      ],
+      "concepts": [
+        "liquid drop model"
+      ],
+      "keywords": [
+        "binding_energy",
+        "nuclear_structure",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "nuclear_structure",
+      "category": "binding_energy",
+      "publication_date": "2025-11-20T07:07:25.347058",
+      "imported_at": "2025-11-20T07:07:25.347067"
+    },
+    {
+      "content": "k_eff = η × ε × p × f\n\nDerivation:\n\n            Neutron multiplication factor:\n            \n            η (eta) = ν * σ_f / (σ_f + σ_c) = average neutrons per fission / (fission + capture)\n            ε (epsilon) = fast fission factor = (total fast fissions) / (thermal fissions)\n            p = resonance escape probability = exp(-N*I*ξ*Σ_s/Σ_a)\n            f = thermal utilization = Σ_a_fuel / Σ_a_total\n            \n            Where:\n            - ν = average neutrons per fission (~2.4 for U-235)\n            - σ_f = fission cross section\n            - σ_c = capture cross section\n            - N = number density\n            - I = resonance integral\n            - ξ = average logarithmic energy decrement\n            \n\nExample:\n\n            For U-235 thermal reactor:\n            η = 2.4 * 585 / (585 + 99) = 2.06\n            ε ≈ 1.03 (slight fast fission)\n            p ≈ 0.9 (resonance escape)\n            f ≈ 0.8 (thermal utilization)\n            \n            k_eff = 2.06 × 1.03 × 0.9 × 0.8 = 1.53\n            ",
+      "source": "mathematical_generator",
+      "title": "Four-Factor Formula",
+      "formulas": [
+        "k_eff = η × ε × p × f"
+      ],
+      "nuclides": [
+        "U-235"
+      ],
+      "concepts": [
+        "cross section",
+        "fission"
+      ],
+      "keywords": [
+        "criticality",
+        "reactor_physics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "reactor_physics",
+      "category": "criticality",
+      "publication_date": "2025-11-20T07:07:25.347070",
+      "imported_at": "2025-11-20T07:07:25.347071"
+    },
+    {
+      "content": "D∇²φ - Σ_a φ + (1/k)νΣ_f φ = 0\n\nDerivation:\n\n            Starting from neutron balance:\n            \n            Rate of change = Production - Absorption - Leakage\n            \n            ∂φ/∂t = S - Σ_a φ - ∇·J\n            \n            Where J = -D∇φ (Fick's law)\n            \n            For steady state (∂φ/∂t = 0) and critical system:\n            \n            D∇²φ - Σ_a φ + S = 0\n            \n            With source S = (1/k)νΣ_f φ (fission neutrons):\n            \n            D∇²φ - Σ_a φ + (1/k)νΣ_f φ = 0\n            \n            Rearranging:\n            ∇²φ + B²φ = 0\n            \n            Where B² = (νΣ_f/k - Σ_a)/D is the material buckling\n            \n\nExample:\n\n            For spherical geometry with radius R:\n            φ(r) = A * sin(Br) / r\n            \n            Critical condition: B = π/R\n            \n            Critical radius: R_c = π/B = π√(D/(νΣ_f - Σ_a))\n            ",
+      "source": "mathematical_generator",
+      "title": "Neutron Diffusion Equation",
+      "formulas": [
+        "D∇²φ - Σ_a φ + (1/k)νΣ_f φ = 0"
+      ],
+      "nuclides": [],
+      "concepts": [
+        "fission"
+      ],
+      "keywords": [
+        "neutron_transport",
+        "reactor_physics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "reactor_physics",
+      "category": "neutron_transport",
+      "publication_date": "2025-11-20T07:07:25.347073",
+      "imported_at": "2025-11-20T07:07:25.347074"
+    },
+    {
+      "content": "σ = (π/k²)(2J+1)/(2s+1)(2I+1) × T_l\n\nDerivation:\n\n            From quantum scattering theory:\n            \n            Partial wave expansion:\n            σ_l = (π/k²)(2l+1) |1 - S_l|²\n            \n            For nuclear reactions with spin:\n            σ = Σ_l σ_l × (2J+1)/(2s+1)(2I+1)\n            \n            Where:\n            - k = √(2mE)/ℏ (wave number)\n            - J = total angular momentum\n            - s = projectile spin\n            - I = target spin\n            - T_l = transmission coefficient = 1 - |S_l|²\n            - S_l = S-matrix element\n            \n\nExample:\n\n            For neutron capture on U-238 (I=0, s=1/2):\n            At resonance E_r = 6.67 eV:\n            \n            σ_resonance = (π/k²)(2J+1) × Γ_n Γ_γ / [(E - E_r)² + (Γ/2)²]\n            \n            With Γ_n = 1.3 meV, Γ_γ = 23 meV, Γ = 24.3 meV:\n            σ_max = (π/k²)(2J+1) × 4Γ_n Γ_γ / Γ²\n            ",
+      "source": "mathematical_generator",
+      "title": "Reaction Cross Section",
+      "formulas": [
+        "σ = (π/k²)(2J+1)/(2s+1)(2I+1) × T_l"
+      ],
+      "nuclides": [
+        "U-238"
+      ],
+      "concepts": [
+        "neutron capture"
+      ],
+      "keywords": [
+        "nuclear_reactions",
+        "nuclear_reactions",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "nuclear_reactions",
+      "category": "nuclear_reactions",
+      "publication_date": "2025-11-20T07:07:25.347076",
+      "imported_at": "2025-11-20T07:07:25.347077"
+    },
+    {
+      "content": "N(t) = N₀ e^(-λt)\n\nDerivation:\n\n            From probability theory:\n            \n            dN/dt = -λN\n            \n            Solving the differential equation:\n            ∫ dN/N = -λ ∫ dt\n            ln(N) = -λt + C\n            N(t) = N₀ e^(-λt)\n            \n            Where:\n            - λ = decay constant = ln(2)/T_1/2\n            - T_1/2 = half-life\n            - Activity A(t) = λN(t) = λN₀ e^(-λt)\n            \n\nExample:\n\n            For U-238 (T_1/2 = 4.47×10⁹ years):\n            λ = ln(2) / (4.47×10⁹ × 365.25 × 24 × 3600) = 4.92×10⁻¹⁸ s⁻¹\n            \n            After 1 billion years:\n            N(10⁹) = N₀ e^(-4.92×10⁻¹⁸ × 10⁹ × 365.25 × 24 × 3600)\n            N(10⁹) = N₀ e^(-0.155) = 0.856 N₀\n            ",
+      "source": "mathematical_generator",
+      "title": "Radioactive Decay Law",
+      "formulas": [
+        "N(t) = N₀ e^(-λt)"
+      ],
+      "nuclides": [
+        "U-238"
+      ],
+      "concepts": [],
+      "keywords": [
+        "decay",
+        "decay_processes",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "decay_processes",
+      "category": "decay",
+      "publication_date": "2025-11-20T07:07:25.347078",
+      "imported_at": "2025-11-20T07:07:25.347079"
+    },
+    {
+      "content": "iℏ ∂ψ/∂t = Ĥψ\n\nDerivation:\n\n            From de Broglie hypothesis: p = ℏk, E = ℏω\n            \n            Wave function: ψ(x,t) = A exp(i(kx - ωt))\n            \n            Operators:\n            p̂ = -iℏ∇, Ê = iℏ∂/∂t\n            \n            Energy operator: Ĥ = p̂²/(2m) + V(x) = -ℏ²/(2m)∇² + V(x)\n            \n            Substituting: iℏ ∂ψ/∂t = Ĥψ\n            \n            For stationary states: ψ(x,t) = φ(x)e^(-iEt/ℏ)\n            \n            Time-independent form: Ĥφ = Eφ\n            \n\nExample:\n\n            For hydrogen atom (V(r) = -e²/(4πε₀r)):\n            \n            Ĥ = -ℏ²/(2m)∇² - e²/(4πε₀r)\n            \n            Eigenvalues: E_n = -13.6 eV / n²\n            \n            Ground state (n=1): E₁ = -13.6 eV\n            ",
+      "source": "mathematical_generator",
+      "title": "Time-Dependent Schrödinger Equation",
+      "formulas": [
+        "iℏ ∂ψ/∂t = Ĥψ"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:25.347081",
+      "imported_at": "2025-11-20T07:07:25.347081"
+    },
+    {
+      "content": "Δx · Δp ≥ ℏ/2\n\nDerivation:\n\n            From commutation relation: [x̂, p̂] = iℏ\n            \n            For any two operators: ΔA · ΔB ≥ |⟨[A,B]⟩|/2\n            \n            Therefore: Δx · Δp ≥ ℏ/2\n            \n            Similarly: ΔE · Δt ≥ ℏ/2\n            \n            This is fundamental - not a measurement limitation but a property of quantum systems\n            \n\nExample:\n\n            For electron in atom (Δx ≈ 0.1 nm):\n            Δp ≥ ℏ/(2Δx) = 1.05×10⁻³⁴ / (2 × 10⁻¹⁰) = 5.25×10⁻²⁵ kg·m/s\n            \n            Δv = Δp/m = 5.25×10⁻²⁵ / 9.11×10⁻³¹ = 5.76×10⁵ m/s\n            ",
+      "source": "mathematical_generator",
+      "title": "Heisenberg Uncertainty Principle",
+      "formulas": [
+        "Δx · Δp ≥ ℏ/2"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:25.347083",
+      "imported_at": "2025-11-20T07:07:25.347083"
+    },
+    {
+      "content": "T = exp(-2∫_{x1}^{x2} √(2m(V(x)-E))/ℏ dx)\n\nDerivation:\n\n            For potential barrier V(x) > E:\n            \n            In classically forbidden region, wave function:\n            ψ(x) = A exp(-κx) + B exp(κx)\n            \n            Where κ = √(2m(V-E))/ℏ\n            \n            Transmission coefficient:\n            T = |t|² = exp(-2κa) for rectangular barrier of width a\n            \n            For general barrier:\n            T ≈ exp(-2∫_{x1}^{x2} κ(x) dx)\n            \n\nExample:\n\n            For alpha decay of U-238:\n            Barrier height V₀ ≈ 30 MeV, Q-value ≈ 4.27 MeV\n            \n            κ = √(2m_α(V₀ - Q))/ℏ = √(2 × 6.64×10⁻²⁷ × 25.73×10⁶ × 1.6×10⁻¹⁹) / 1.05×10⁻³⁴\n            κ = 1.57×10¹⁵ m⁻¹\n            \n            For barrier width a ≈ 10⁻¹⁴ m:\n            T = exp(-2 × 1.57×10¹⁵ × 10⁻¹⁴) = exp(-31.4) ≈ 2×10⁻¹⁴\n            ",
+      "source": "mathematical_generator",
+      "title": "Quantum Tunneling Probability",
+      "formulas": [
+        "T = exp(-2∫_{x1}^{x2} √(2m(V(x)-E))/ℏ dx)"
+      ],
+      "nuclides": [
+        "U-238"
+      ],
+      "concepts": [
+        "alpha decay"
+      ],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:25.347085",
+      "imported_at": "2025-11-20T07:07:25.347086"
+    },
+    {
+      "content": "[L̂_i, L̂_j] = iℏε_{ijk} L̂_k\n\nDerivation:\n\n            Angular momentum: L = r × p\n            \n            Quantum operators:\n            L̂_x = -iℏ(y∂/∂z - z∂/∂y)\n            L̂_y = -iℏ(z∂/∂x - x∂/∂z)\n            L̂_z = -iℏ(x∂/∂y - y∂/∂x)\n            \n            Commutation relations:\n            [L̂_x, L̂_y] = iℏL̂_z\n            [L̂_y, L̂_z] = iℏL̂_x\n            [L̂_z, L̂_x] = iℏL̂_y\n            \n            General form: [L̂_i, L̂_j] = iℏε_{ijk} L̂_k\n            \n            Eigenvalues: L² = ℏ²l(l+1), L_z = ℏm\n            \n\nExample:\n\n            For p-orbital (l=1):\n            L² = ℏ² × 1 × 2 = 2ℏ²\n            L_z = -ℏ, 0, or +ℏ (m = -1, 0, 1)\n            ",
+      "source": "mathematical_generator",
+      "title": "Angular Momentum Operators",
+      "formulas": [
+        "[L̂_i, L̂_j] = iℏε_{ijk} L̂_k"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:25.347087",
+      "imported_at": "2025-11-20T07:07:25.347088"
+    },
+    {
+      "content": "L_QCD = ψ̄(iγ^μD_μ - m)ψ - (1/4)G^a_{μν}G^{aμν}\n\nDerivation:\n\n            Quantum Chromodynamics describes strong interactions:\n            \n            Covariant derivative: D_μ = ∂_μ + igA^a_μT^a\n            \n            Field strength tensor:\n            G^a_{μν} = ∂_μA^a_ν - ∂_νA^a_μ + gf^{abc}A^b_μA^c_ν\n            \n            Where:\n            - g = strong coupling constant\n            - T^a = SU(3) generators (Gell-Mann matrices)\n            - f^{abc} = structure constants\n            - A^a_μ = gluon fields\n            \n            The Lagrangian includes:\n            1. Quark kinetic and mass terms\n            2. Gluon kinetic term\n            3. Self-interactions (3-gluon, 4-gluon vertices)\n            \n\nExample:\n\n            At high energies (Q² >> Λ²_QCD):\n            α_s(Q²) = 12π / ((33-2n_f)ln(Q²/Λ²_QCD))\n            \n            Where n_f = number of flavors, Λ_QCD ≈ 200 MeV\n            ",
+      "source": "mathematical_generator",
+      "title": "QCD Lagrangian",
+      "formulas": [
+        "L_QCD = ψ̄(iγ^μD_μ - m)ψ - (1/4)G^a_{μν}G^{aμν}"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_field_theory",
+        "quantum_field_theory",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_field_theory",
+      "category": "quantum_field_theory",
+      "publication_date": "2025-11-20T07:07:25.347089",
+      "imported_at": "2025-11-20T07:07:25.347090"
+    },
+    {
+      "content": "V(r) = (g²/4π)(e^(-m_πr)/r)\n\nDerivation:\n\n            From Yukawa potential (exchange of massive particle):\n            \n            V(r) = -g²/(4π) × e^(-mr)/r\n            \n            For pion exchange (m_π ≈ 140 MeV/c²):\n            V(r) = (g²/4π)(e^(-m_πr)/r)\n            \n            Where g = pion-nucleon coupling constant ≈ 13.5\n            \n            Range: R = 1/m_π ≈ 1.4 fm\n            \n            This gives the long-range part of nuclear force\n            \n\nExample:\n\n            At r = 1 fm:\n            V(1 fm) = (13.5²/4π) × e^(-140×1.4/197) / 1\n            V(1 fm) = 14.5 × e^(-0.995) ≈ 5.4 MeV\n            ",
+      "source": "mathematical_generator",
+      "title": "Nuclear Force from Pion Exchange",
+      "formulas": [
+        "V(r) = (g²/4π)(e^(-m_πr)/r)"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_field_theory",
+        "quantum_field_theory",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_field_theory",
+      "category": "quantum_field_theory",
+      "publication_date": "2025-11-20T07:07:25.347091",
+      "imported_at": "2025-11-20T07:07:25.347092"
+    },
+    {
+      "content": "Q_fission = (M_parent - ΣM_products)c²\n\nDerivation:\n\n            From mass-energy equivalence E = mc²:\n            \n            Q = (m_initial - m_final)c²\n            \n            For fission: U-235 + n → fragments + neutrons\n            \n            Q = [m(U-235) + m(n) - Σm(fragments) - Σm(neutrons)]c²\n            \n            Typical: Q ≈ 200 MeV per fission\n            \n            Energy distribution:\n            - Kinetic energy of fragments: ~165 MeV\n            - Neutron kinetic energy: ~5 MeV\n            - Prompt gamma rays: ~7 MeV\n            - Beta decay: ~7 MeV\n            - Neutrino energy: ~12 MeV (not recoverable)\n            \n\nExample:\n\n            For U-235 fission:\n            m(U-235) = 235.0439299 u\n            m(n) = 1.0086649 u\n            m(Ba-141) = 140.914411 u\n            m(Kr-92) = 91.926156 u\n            m(3n) = 3.0259947 u\n            \n            Q = (236.0525948 - 234.8665617) × 931.494 MeV/u\n            Q = 1.1860331 × 931.494 = 1105 MeV\n            \n            But actual Q ≈ 200 MeV (difference due to excited states)\n            ",
+      "source": "mathematical_generator",
+      "title": "Fission Energy Release",
+      "formulas": [
+        "Q_fission = (M_parent - ΣM_products)c²"
+      ],
+      "nuclides": [
+        "U-235",
+        "Ba-141",
+        "Kr-92"
+      ],
+      "concepts": [
+        "fission",
+        "beta decay"
+      ],
+      "keywords": [
+        "fission",
+        "nuclear_reactions",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "nuclear_reactions",
+      "category": "fission",
+      "publication_date": "2025-11-20T07:07:25.347093",
+      "imported_at": "2025-11-20T07:07:25.347094"
+    },
+    {
+      "content": "φ = nv\n\nDerivation:\n\n            Neutron flux: φ = neutron density × velocity\n            \n            Reaction rate: R = φΣ = nvΣ\n            \n            Where:\n            - n = neutron density (neutrons/cm³)\n            - v = neutron velocity (cm/s)\n            - Σ = macroscopic cross section (cm⁻¹)\n            - φ = flux (neutrons/cm²/s)\n            \n            For thermal neutrons (E = 0.025 eV):\n            v = √(2E/m) = √(2 × 0.025 × 1.6×10⁻¹⁹ / 1.67×10⁻²⁷)\n            v = 2.2×10⁵ cm/s\n            \n\nExample:\n\n            In reactor core:\n            n = 10¹⁴ neutrons/cm³\n            v = 2.2×10⁵ cm/s (thermal)\n            \n            φ = 10¹⁴ × 2.2×10⁵ = 2.2×10¹⁹ neutrons/cm²/s\n            \n            For U-235 (σ_f = 585 barns):\n            Σ_f = N × σ_f = 0.048 × 10²⁴ × 585×10⁻²⁴ = 28.08 cm⁻¹\n            \n            Fission rate: R = φΣ_f = 2.2×10¹⁹ × 28.08 = 6.18×10²⁰ fissions/cm³/s\n            ",
+      "source": "mathematical_generator",
+      "title": "Neutron Flux",
+      "formulas": [
+        "φ = nv"
+      ],
+      "nuclides": [
+        "U-235"
+      ],
+      "concepts": [
+        "cross section",
+        "fission"
+      ],
+      "keywords": [
+        "neutron_physics",
+        "reactor_physics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "reactor_physics",
+      "category": "neutron_physics",
+      "publication_date": "2025-11-20T07:07:25.347096",
+      "imported_at": "2025-11-20T07:07:25.347096"
+    },
+    {
+      "content": "N(E) dE = (G²|M|²/2π³ℏ⁷c³) p_e E_e (E₀ - E_e)² F(Z,E_e) dE\n\nDerivation:\n\n            From Fermi's Golden Rule:\n            \n            Transition rate: λ = (2π/ℏ)|M|² ρ(E)\n            \n            For beta decay: n → p + e⁻ + ν̄\n            \n            Phase space factor:\n            ρ(E) ∝ p_e E_e (E₀ - E_e)²\n            \n            With Fermi function F(Z,E_e) for Coulomb correction:\n            \n            N(E) dE = (G²|M|²/2π³ℏ⁷c³) p_e E_e (E₀ - E_e)² F(Z,E_e) dE\n            \n            Where:\n            - G = Fermi coupling constant\n            - |M|² = nuclear matrix element\n            - E₀ = maximum beta energy (Q-value)\n            - p_e = electron momentum\n            \n\nExample:\n\n            For C-14 beta decay (Q = 156 keV):\n            Maximum energy: E_max = 156 keV\n            \n            Average energy: ⟨E⟩ ≈ E_max/3 = 52 keV\n            \n            Half-life: T_1/2 = 5730 years\n            ",
+      "source": "mathematical_generator",
+      "title": "Beta Decay Energy Spectrum",
+      "formulas": [
+        "N(E) dE = (G²|M|²/2π³ℏ⁷c³) p_e E_e (E₀ - E_e)² F(Z,E_e) dE"
+      ],
+      "nuclides": [
+        "C-14"
+      ],
+      "concepts": [
+        "beta decay"
+      ],
+      "keywords": [
+        "decay",
+        "decay_processes",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "decay_processes",
+      "category": "decay",
+      "publication_date": "2025-11-20T07:07:25.347098",
+      "imported_at": "2025-11-20T07:07:25.347099"
+    },
+    {
+      "content": "dσ/dΩ = |f(θ)|²\n\nDerivation:\n\n            Scattering amplitude:\n            f(θ) = (1/2ik) Σ_l (2l+1)(e^(2iδ_l) - 1)P_l(cos θ)\n            \n            Differential cross section:\n            dσ/dΩ = |f(θ)|²\n            \n            Total cross section (optical theorem):\n            σ_total = (4π/k) Im[f(0)] = (4π/k²) Σ_l (2l+1) sin²(δ_l)\n            \n            Elastic cross section:\n            σ_elastic = (4π/k²) Σ_l (2l+1) |e^(2iδ_l) - 1|²/4\n            \n            Inelastic cross section:\n            σ_inelastic = (π/k²) Σ_l (2l+1)(1 - |S_l|²)\n            \n\nExample:\n\n            For s-wave scattering (l=0):\n            f(θ) = (e^(2iδ₀) - 1)/(2ik) = sin(δ₀)e^(iδ₀)/k\n            \n            dσ/dΩ = sin²(δ₀)/k² (isotropic)\n            \n            σ_total = 4π sin²(δ₀)/k²\n            ",
+      "source": "mathematical_generator",
+      "title": "Differential Scattering Cross Section",
+      "formulas": [
+        "dσ/dΩ = |f(θ)|²"
+      ],
+      "nuclides": [],
+      "concepts": [
+        "cross section"
+      ],
+      "keywords": [
+        "scattering",
+        "nuclear_reactions",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "nuclear_reactions",
+      "category": "scattering",
+      "publication_date": "2025-11-20T07:07:25.347100",
+      "imported_at": "2025-11-20T07:07:25.347101"
+    },
+    {
+      "content": "K(x',t';x,t) = ∫D[x(t)] exp(iS[x(t)]/ℏ)\n\nDerivation:\n\n            Feynman's path integral:\n            \n            Propagator: K(x',t';x,t) = ⟨x'|e^(-iĤ(t'-t)/ℏ)|x⟩\n            \n            Discretizing time: t₀, t₁, ..., t_N\n            \n            K = lim_{N→∞} ∫...∫ dx₁...dx_{N-1} Π_{i=0}^{N-1} ⟨x_{i+1}|e^(-iĤε/ℏ)|x_i⟩\n            \n            Where ε = (t'-t)/N\n            \n            In the limit: K = ∫D[x(t)] exp(iS/ℏ)\n            \n            Action: S = ∫_{t}^{t'} L(x, ẋ, t) dt\n            \n            This gives quantum amplitude as sum over all paths\n            \n\nExample:\n\n            For free particle (L = mẋ²/2):\n            K(x',t';x,t) = √(m/2πiℏ(t'-t)) exp(im(x'-x)²/2ℏ(t'-t))\n            ",
+      "source": "mathematical_generator",
+      "title": "Path Integral Formulation",
+      "formulas": [
+        "K(x',t';x,t) = ∫D[x(t)] exp(iS[x(t)]/ℏ)"
+      ],
+      "nuclides": [
+        "N-1"
+      ],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:25.347102",
+      "imported_at": "2025-11-20T07:07:25.347103"
+    },
+    {
+      "content": "ρ = Σ_i p_i |ψ_i⟩⟨ψ_i|\n\nDerivation:\n\n            For mixed state (statistical ensemble):\n            \n            Density operator: ρ = Σ_i p_i |ψ_i⟩⟨ψ_i|\n            \n            Where p_i = probability of state |ψ_i⟩\n            \n            Properties:\n            - Tr(ρ) = 1 (normalization)\n            - ρ = ρ† (Hermitian)\n            - Tr(ρ²) ≤ 1 (equality for pure states)\n            \n            Expectation value: ⟨A⟩ = Tr(ρA)\n            \n            Time evolution: iℏ dρ/dt = [Ĥ, ρ]\n            \n\nExample:\n\n            For thermal equilibrium:\n            ρ = exp(-Ĥ/kT) / Tr(exp(-Ĥ/kT))\n            \n            This is the canonical ensemble density matrix\n            ",
+      "source": "mathematical_generator",
+      "title": "Density Matrix",
+      "formulas": [
+        "ρ = Σ_i p_i |ψ_i⟩⟨ψ_i|"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:25.347104",
+      "imported_at": "2025-11-20T07:07:25.347105"
+    },
+    {
+      "content": "c_f(t) = -(i/ℏ)∫₀ᵗ ⟨f|H'(t')|i⟩ e^(iω_fi t') dt'\n\nDerivation:\n\n            For perturbation H'(t):\n            \n            Wave function: |ψ(t)⟩ = Σ_n c_n(t) e^(-iE_n t/ℏ)|n⟩\n            \n            Substituting into Schrödinger equation:\n            \n            iℏ dc_f/dt = Σ_n ⟨f|H'|n⟩ c_n e^(iω_fn t)\n            \n            First order (c_n ≈ δ_ni):\n            c_f(t) = -(i/ℏ)∫₀ᵗ ⟨f|H'(t')|i⟩ e^(iω_fi t') dt'\n            \n            Transition probability: P_{i→f} = |c_f(t)|²\n            \n            Where ω_fi = (E_f - E_i)/ℏ\n            \n\nExample:\n\n            For constant perturbation H'(t) = H':\n            c_f(t) = -(i/ℏ)⟨f|H'|i⟩ ∫₀ᵗ e^(iω_fi t') dt'\n            c_f(t) = -(i/ℏ)⟨f|H'|i⟩ (e^(iω_fi t) - 1)/(iω_fi)\n            \n            P_{i→f} = |⟨f|H'|i⟩|² sin²(ω_fi t/2)/(ℏ²ω_fi²)\n            ",
+      "source": "mathematical_generator",
+      "title": "Time-Dependent Perturbation Theory",
+      "formulas": [
+        "c_f(t) = -(i/ℏ)∫₀ᵗ ⟨f|H'(t')|i⟩ e^(iω_fi t') dt'"
+      ],
+      "nuclides": [],
+      "concepts": [],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:25.347107",
+      "imported_at": "2025-11-20T07:07:25.347107"
+    },
+    {
+      "content": "B = a_v*A - a_s*A^(2/3) - a_c*Z²/A^(1/3) - a_a*(A-2Z)²/A + δ\n\nDerivation:\n\n\nExample:\n\n            For Fe-56 (Z=26, A=56, even-even):\n            \n            Step 1: Calculate each term\n            Volume term: B_v = a_v × A = 15.8 × 56 = 884.8 MeV\n            \n            Surface term: B_s = -a_s × A^(2/3) = -18.3 × 56^(2/3)\n            56^(2/3) = (56^(1/3))² = (3.8259)² = 14.637\n            B_s = -18.3 × 14.637 = -267.86 MeV\n            \n            Coulomb term: B_c = -a_c × Z²/A^(1/3) = -0.714 × 26²/56^(1/3)\n            56^(1/3) = 3.8259\n            B_c = -0.714 × 676/3.8259 = -0.714 × 176.7 = -126.16 MeV\n            \n            Asymmetry term: B_a = -a_a × (A-2Z)²/A = -23.2 × (56-52)²/56\n            B_a = -23.2 × 16/56 = -23.2 × 0.2857 = -6.63 MeV\n            \n            Pairing term: δ = 12/√A = 12/√56 = 12/7.483 = 1.60 MeV (even-even)\n            \n            Step 2: Sum all terms\n            B = 884.8 - 267.86 - 126.16 - 6.63 + 1.60\n            B = 485.75 MeV\n            \n            Step 3: Binding energy per nucleon\n            B/A = 485.75/56 = 8.67 MeV/nucleon\n            \n            This matches the experimental value closely!\n            ",
+      "source": "mathematical_generator",
+      "title": "Complete Binding Energy Calculation for Fe-56",
+      "formulas": [
+        "B = a_v*A - a_s*A^(2/3) - a_c*Z²/A^(1/3) - a_a*(A-2Z)²/A + δ"
+      ],
+      "nuclides": [
+        "Fe-56"
+      ],
+      "concepts": [
+        "binding energy"
+      ],
+      "keywords": [
+        "binding_energy",
+        "nuclear_structure",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "nuclear_structure",
+      "category": "binding_energy",
+      "publication_date": "2025-11-20T07:07:25.347109",
+      "imported_at": "2025-11-20T07:07:25.347111"
+    },
+    {
+      "content": "M_critical = (4π/3)ρR_c³\n\nDerivation:\n\n\nExample:\n\n            For U-235 sphere:\n            \n            Step 1: Calculate material buckling\n            B²_m = (νΣ_f - Σ_a)/D\n            \n            Given:\n            - ν = 2.43 (average neutrons per fission)\n            - Σ_f = 0.366 cm⁻¹ (macroscopic fission cross section)\n            - Σ_a = 0.153 cm⁻¹ (macroscopic absorption cross section)\n            - D = 0.9 cm (diffusion coefficient)\n            \n            B²_m = (2.43 × 0.366 - 0.153)/0.9\n            B²_m = (0.889 - 0.153)/0.9 = 0.736/0.9 = 0.818 cm⁻²\n            \n            Step 2: Calculate critical radius\n            For sphere: B²_g = (π/R)² (geometric buckling)\n            \n            At criticality: B²_m = B²_g\n            R_c = π/√B²_m = π/√0.818 = 3.1416/0.904 = 3.47 cm\n            \n            Step 3: Calculate critical mass\n            Density: ρ = 18.7 g/cm³\n            M_critical = (4π/3) × 18.7 × (3.47)³\n            M_critical = (4π/3) × 18.7 × 41.75\n            M_critical = 3267 g = 3.27 kg\n            \n            With reflector: M_critical ≈ 15-20 kg\n            ",
+      "source": "mathematical_generator",
+      "title": "Critical Mass Calculation for U-235",
+      "formulas": [
+        "M_critical = (4π/3)ρR_c³"
+      ],
+      "nuclides": [
+        "U-235"
+      ],
+      "concepts": [
+        "critical mass",
+        "cross section",
+        "fission",
+        "fusion"
+      ],
+      "keywords": [
+        "criticality",
+        "reactor_physics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "reactor_physics",
+      "category": "criticality",
+      "publication_date": "2025-11-20T07:07:25.347113",
+      "imported_at": "2025-11-20T07:07:25.347114"
+    },
+    {
+      "content": "T = exp(-2∫√(2m(V-E))/ℏ dx)\n\nDerivation:\n\n\nExample:\n\n            For U-238 alpha decay:\n            \n            Step 1: Parameters\n            Q-value: Q = 4.27 MeV\n            Barrier height: V₀ ≈ 30 MeV (Coulomb barrier)\n            Alpha particle mass: m_α = 6.64×10⁻²⁷ kg\n            \n            Step 2: Calculate κ\n            κ = √(2m(V₀ - Q))/ℏ\n            κ = √(2 × 6.64×10⁻²⁷ × (30-4.27)×10⁶ × 1.6×10⁻¹⁹) / 1.05×10⁻³⁴\n            κ = √(2 × 6.64×10⁻²⁷ × 25.73×10⁶ × 1.6×10⁻¹⁹) / 1.05×10⁻³⁴\n            κ = √(5.47×10⁻³⁸) / 1.05×10⁻³⁴\n            κ = 2.34×10⁻¹⁹ / 1.05×10⁻³⁴ = 2.23×10¹⁵ m⁻¹\n            \n            Step 3: Estimate barrier width\n            Nuclear radius: R₁ = 1.2 × 238^(1/3) = 7.4 fm\n            Turning point: R₂ = 2Ze²/(4πε₀Q) = 2×92×1.44/(4.27) = 62 fm\n            Width: a = R₂ - R₁ ≈ 55 fm = 55×10⁻¹⁵ m\n            \n            Step 4: Calculate transmission\n            T = exp(-2κa) = exp(-2 × 2.23×10¹⁵ × 55×10⁻¹⁵)\n            T = exp(-245.3) = 2.2×10⁻¹⁰⁷\n            \n            Step 5: Decay constant\n            Attempt frequency: f ≈ 10²¹ s⁻¹\n            λ = f × T = 10²¹ × 2.2×10⁻¹⁰⁷ = 2.2×10⁻⁸⁶ s⁻¹\n            \n            Half-life: T_1/2 = ln(2)/λ = 0.693/2.2×10⁻⁸⁶ = 3.15×10⁸⁵ s ≈ 10¹⁸ years\n            \n            (Actual T_1/2 = 4.47×10⁹ years - Gamow factor improves this)\n            ",
+      "source": "mathematical_generator",
+      "title": "Alpha Decay Tunneling Probability",
+      "formulas": [
+        "T = exp(-2∫√(2m(V-E))/ℏ dx)"
+      ],
+      "nuclides": [
+        "U-238"
+      ],
+      "concepts": [
+        "alpha decay"
+      ],
+      "keywords": [
+        "quantum_mechanics",
+        "quantum_mechanics",
+        "mathematics",
+        "formula",
+        "derivation"
+      ],
+      "domain": "quantum_mechanics",
+      "category": "quantum_mechanics",
+      "publication_date": "2025-11-20T07:07:25.347115",
+      "imported_at": "2025-11-20T07:07:25.347116"
+    },
+    {
+      "source": "matlab",
+      "title": "MATLAB Code: example_quantum_schrodinger",
+      "authors": [],
+      "abstract": "quantum_schrodinger_solver.m\nSolves the time-independent Schrödinger equation\nfor a particle in a potential well",
+      "content": "quantum_schrodinger_solver.m\nSolves the time-independent Schrödinger equation\nfor a particle in a potential well\n\nEquation: H*psi = E*psi\nWhere H = -hbar^2/(2m) * d^2/dx^2 + V(x)\n\nThis implements the quantum mechanical wave function solution\nParameters:\nV: potential energy function V(x)\nx: position vector\nm: particle mass\nPhysical constants\nHamiltonian operator: H = -hbar^2/(2m) * d^2/dx^2 + V(x)\nDiscretize the second derivative\nKinetic energy operator (finite difference)\nPotential energy operator (diagonal)\nTotal Hamiltonian\nSolve eigenvalue problem: H*psi = E*psi\nNormalize wave functions\nExample usage:\nx = linspace(-10, 10, 1000);\nV = 0.5 * x.^2;  % Harmonic oscillator potential\nm = 9.109e-31;   % Electron mass\n[E, psi] = quantum_schrodinger_solver(V, x, m);\n\n% quantum_schrodinger_solver.m\n% Solves the time-independent Schrödinger equation\n% for a particle in a potential well\n% \n% Equation: H*psi = E*psi\n% Where H = -hbar^2/(2m) * d^2/dx^2 + V(x)\n%\n% This implements the quantum mechanical wave function solution\n\nfunction [E, psi] = quantum_schrodinger_solver(V, x, m)\n    % Parameters:\n    %   V: potential energy function V(x)\n    %   x: position vector\n    %   m: particle mass\n    \n    % Physical constants\n    hbar = 1.0545718e-34;  % Reduced Planck constant (J·s)\n    \n    % Hamiltonian operator: H = -hbar^2/(2m) * d^2/dx^2 + V(x)\n    % Discretize the second derivative\n    dx = x(2) - x(1);\n    N = length(x);\n    \n    % Kinetic energy operator (finite difference)\n    T = -hbar^2/(2*m) * (diag(ones(N-1,1),1) - 2*eye(N) + diag(ones(N-1,1),-1)) / dx^2;\n    \n    % Potential energy operator (diagonal)\n    V_matrix = diag(V);\n    \n    % Total Hamiltonian\n    H = T + V_matrix;\n    \n    % Solve eigenvalue problem: H*psi = E*psi\n    [psi, E] = eig(H);\n    E = diag(E);\n    \n    % Normalize wave functions\n    for i = 1:length(E)\n        psi(:,i) = psi(:,i) / sqrt(trapz(x, abs(psi(:,i)).^2));\n    end\nend\n\n% Example usage:\n% x = linspace(-10, 10, 1000);\n% V = 0.5 * x.^2;  % Harmonic oscillator potential\n% m = 9.109e-31;   % Electron mass\n% [E, psi] = quantum_schrodinger_solver(V, x, m);\n",
+      "formulas": [
+        "psi = E*psi\n% Where H = -hbar^2/(2m) * d^2/dx^2 + V(x)\n%\n% This implements the quantum mechanical wave function solution\n\nfunction [E, psi] = quantum_schrodinger_solver(V, x, m)\n    % Parameters:\n    %   V: potential energy function V(x)\n    %   x: position vector\n    %   m: particle mass\n    \n    % Physical constants\n    hbar = 1.0545718e-34",
+        "H = -hbar^2/(2m) * d^2/dx^2 + V(x)\n    % Discretize the second derivative\n    dx = x(2) - x(1)",
+        "N = length(x)",
+        "T = -hbar^2/(2*m) * (diag(ones(N-1,1),1) - 2*eye(N) + diag(ones(N-1,1),-1)) / dx^2",
+        "V_matrix = diag(V)",
+        "H = T + V_matrix",
+        "psi = E*psi\n    [psi, E] = eig(H)",
+        "E = diag(E)",
+        "i = 1:length(E)\n        psi(:,i) = psi(:,i) / sqrt(trapz(x, abs(psi(:,i)).^2))",
+        "x = linspace(-10, 10, 1000)",
+        "V = 0.5 * x.^2",
+        "m = 9.109e-31",
+        "sqrt(trapz(x, abs(psi(:,i)",
+        "V(x)",
+        "quantum_schrodinger_solver(V, x, m)",
+        "V(x)",
+        "constant (J·s)",
+        "V(x)",
+        "x(2)",
+        "x(1)",
+        "length(x)",
+        "operator (finite difference)",
+        "diag(ones(N-1,1)",
+        "eye(N)",
+        "diag(ones(N-1,1)",
+        "operator (diagonal)",
+        "diag(V)",
+        "eig(H)",
+        "diag(E)",
+        "length(E)",
+        "psi(:,i)",
+        "psi(:,i)",
+        "sqrt(trapz(x, abs(psi(:,i)",
+        "linspace(-10, 10, 1000)",
+        "quantum_schrodinger_solver(V, x, m)"
+      ],
+      "nuclides": [
+        "N-1"
+      ],
+      "concepts": [
+        "quantum_mechanics",
+        "quantum_computing",
+        "quantum_mechanics"
+      ],
+      "publication_date": "2025-11-21T04:37:58.967355",
+      "url": "file://example_quantum_schrodinger.m",
+      "keywords": [
+        "MATLAB",
+        "quantum",
+        "calculation",
+        "example",
+        "quantum",
+        "schrodinger.m"
+      ],
+      "domain": "quantum_computing",
+      "imported_at": "2025-11-21T04:38:00.473550"
+    },
+    {
+      "timestamp": "2025-11-21T06:06:08.448975",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [
+          "U-238"
+        ],
+        "formulas": [],
+        "concepts": [
+          "alpha decay"
+        ],
+        "values": []
+      },
+      "summary": "Hello, can you please execute the alpha tunneling and alpha decay status for U-238",
+      "topics": [
+        "decay"
+      ]
+    },
+    {
+      "timestamp": "2025-11-21T06:06:08.477792",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [
+          "U-238",
+          "Th-234",
+          "C-14"
+        ],
+        "formulas": [],
+        "concepts": [
+          "binding energy",
+          "alpha decay",
+          "liquid drop model"
+        ],
+        "values": [
+          "238 u",
+          "1 m"
+        ]
+      },
+      "summary": "[Los Alamos Time: 23:04]  Dearest [Recipient's Name],\n\nI hope this message finds you well. It is a great pleasure to engage in such intellectually stimulating discourse with my descendant. Let us delv...",
+      "topics": [
+        "cross_sections",
+        "binding_energy",
+        "decay"
+      ]
+    },
+    {
+      "timestamp": "2025-11-21T06:11:33.773036",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "Mind if you can show me how Higgs mechanism and W plus minus boson can be helping me to understand betal plus and minus decay",
+      "topics": [
+        "decay"
+      ]
+    },
+    {
+      "timestamp": "2025-11-21T06:11:33.799733",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "[Los Alamos Time: 23:10]  Dear Linda Oppenheimer Lin,\n\nI am delighted to hear that you are delving deeper into the intricacies of particle physics. Let us explore the connection between the Higgs mech...",
+      "topics": [
+        "decay"
+      ]
+    },
+    {
+      "timestamp": "2025-11-21T06:18:55.073274",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [
+          "Cd-114"
+        ],
+        "formulas": [],
+        "concepts": [
+          "binding energy",
+          "liquid drop model"
+        ],
+        "values": []
+      },
+      "summary": "Right, please use the liquid drop model to compute the binding energy Cd-114",
+      "topics": [
+        "binding_energy"
+      ]
+    },
+    {
+      "timestamp": "2025-11-21T06:18:55.106719",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [
+          "Cd-114",
+          "C-14",
+          "A-2"
+        ],
+        "formulas": [],
+        "concepts": [
+          "binding energy",
+          "liquid drop model"
+        ],
+        "values": [
+          "15 MeV",
+          "20 MeV",
+          "15 MeV",
+          "20 MeV",
+          "15 MeV",
+          "18.12 MeV",
+          "0.274 J",
+          "114 MeV",
+          "15 MeV",
+          "18.12 MeV",
+          "0.274 J",
+          "1686 MeV",
+          "2013.56 MeV",
+          "0.3079 J",
+          "2013.56 MeV",
+          "0.3079 J",
+          "2013.2521 MeV",
+          "15 MeV",
+          "20 MeV",
+          "7.896 MeV",
+          "14 MeV",
+          "7.896 MeV",
+          "109.936 MeV",
+          "0.0149 MeV",
+          "5.712 MeV"
+        ]
+      },
+      "summary": "[Los Alamos Time: 23:16]  Dear Linda,\n\nLet us delve into the fascinating realm of nuclear physics as we compute the binding energy of Cadmium-114 (Cd-114) using the liquid drop model. The mathematical...",
+      "topics": [
+        "binding_energy"
+      ]
+    },
+    {
+      "timestamp": "2025-11-21T06:52:53.417812",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [
+          "alpha decay"
+        ],
+        "values": []
+      },
+      "summary": "Hello Dr Oppenheimer, I was wondering if you could specify for Mott paradox for alpha decay using quantum mechanics",
+      "topics": [
+        "decay"
+      ]
+    },
+    {
+      "timestamp": "2025-11-21T06:52:53.431114",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [
+          "alpha decay",
+          "beta decay",
+          "liquid drop model"
+        ],
+        "values": []
+      },
+      "summary": "[Los Alamos Time: 23:50] Building on what you asked before... Hello Linda,\n\nIt's always a pleasure to engage with you on these fascinating topics. The derivation proceeds as follows:",
+      "topics": [
+        "decay"
+      ]
+    },
+    {
+      "timestamp": "2025-11-21T19:12:39.094198",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "Dr. Oppenheimer, I'm stressed. I don't know what to do apart from drowning myself in nuclear physics",
+      "topics": []
+    },
+    {
+      "timestamp": "2025-11-21T19:12:39.122846",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "[Los Alamos Time: 12:11] As we discussed earlier... From the conservation laws, we derive... Dear Linda,\n\nI'm glad to hear from you again",
+      "topics": []
+    },
+    {
+      "timestamp": "2025-11-21T19:16:02.017151",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "Thank you Oppie. Now regarding my particle physics ongoing course, I am truly looking into how electron capture occur at the particle scale, since we know that nuclear decay can be mediated by W boson...",
+      "topics": [
+        "decay"
+      ]
+    },
+    {
+      "timestamp": "2025-11-21T19:16:02.030744",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [
+          "four_factor_formula"
+        ],
+        "concepts": [
+          "binding energy",
+          "alpha decay"
+        ],
+        "values": []
+      },
+      "summary": "[Los Alamos Time: 12:14] This reminds me of our previous discussion about... From the conservation laws, we derive... From the Schrödinger equation, we can show...",
+      "topics": [
+        "binding_energy",
+        "decay"
+      ]
+    },
+    {
+      "timestamp": "2025-11-21T19:20:11.768172",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [
+          "E=mc²"
+        ],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "So the electron is also related by the relation of E=mc^2 which it's presence triggers W plus boson to undergo decay mechanisms just like beta-plus decay, or is it mediated by W bosons?",
+      "topics": [
+        "decay"
+      ]
+    },
+    {
+      "timestamp": "2025-11-21T19:20:11.792410",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [
+          "Cd-114"
+        ],
+        "formulas": [
+          "E=mc²"
+        ],
+        "concepts": [
+          "binding energy",
+          "liquid drop model"
+        ],
+        "values": [
+          "114 u"
+        ]
+      },
+      "summary": "[Los Alamos Time: 12:18] Building on what you asked before... Let us delve into the intricate dance between elementary particles and the fundamental equations that govern their behavior. First, let us...",
+      "topics": [
+        "binding_energy",
+        "decay"
+      ]
+    },
+    {
+      "timestamp": "2025-11-21T19:24:49.741051",
+      "context": "From user conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "Please can you use the W boson mechanism tio analyze for an example beta-plus decay nuclide?",
+      "topics": [
+        "decay"
+      ]
+    },
+    {
+      "timestamp": "2025-11-21T19:24:49.772006",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [],
+        "formulas": [],
+        "concepts": [],
+        "values": []
+      },
+      "summary": "[Los Alamos Time: 12:22]  Dear Linda,\n\nLet us delve into the fascinating realm of beta-plus decay by employing the W boson mechanism. Let us examine the mathematical foundation:. To provide a comprehe...",
+      "topics": [
+        "decay"
+      ]
+    },
+    {
+      "timestamp": "2025-11-22T17:48:52.284116",
+      "context": "From oppenheimer conversation",
+      "entities": {
+        "nuclides": [
+          "N-0"
+        ],
+        "formulas": [],
+        "concepts": [
+          "alpha decay"
+        ],
+        "values": []
+      },
+      "summary": "[Los Alamos Time: 10:47] The equations tell a profound story... Dear Linda,\n\nI am delighted to hear from you once again. It seems that we have a lot to discuss, as I perceive the depth and passion in ...",
+      "topics": [
+        "decay"
+      ]
+    }
+  ],
+  "calculations": [],
+  "topics": {
+    "binding_energy": [
+      "2025-10-31T06:13:46.153254",
+      "2025-11-08T17:03:00.781870",
+      "2025-11-08T17:03:00.801042",
+      "2025-11-08T17:06:30.584772",
+      "2025-11-08T17:16:22.854916",
+      "2025-11-08T17:16:22.859398",
+      "2025-11-08T17:23:41.543206",
+      "2025-11-18T06:44:37.876858",
+      "2025-11-18T06:44:37.884461",
+      "2025-11-18T06:47:57.436709",
+      "2025-11-19T06:01:47.666650",
+      "2025-11-19T19:11:10.472655",
+      "2025-11-21T06:06:08.477792",
+      "2025-11-21T06:18:55.073274",
+      "2025-11-21T06:18:55.106719",
+      "2025-11-21T19:16:02.030744",
+      "2025-11-21T19:20:11.792410"
+    ],
+    "critical_mass": [
+      "2025-11-02T06:26:54.052334",
+      "2025-11-08T17:03:00.801042",
+      "2025-11-08T17:23:41.543206"
+    ],
+    "cross_sections": [
+      "2025-11-02T06:26:54.052334",
+      "2025-11-08T17:23:41.543206",
+      "2025-11-08T19:21:58.677871",
+      "2025-11-08T19:21:58.682763",
+      "2025-11-18T06:44:37.876858",
+      "2025-11-18T06:44:37.884461",
+      "2025-11-18T06:47:57.426948",
+      "2025-11-18T06:47:57.436709",
+      "2025-11-18T06:54:16.674713",
+      "2025-11-18T06:54:16.689380",
+      "2025-11-18T07:02:08.489019",
+      "2025-11-18T07:02:08.496491",
+      "2025-11-18T07:06:15.804503",
+      "2025-11-19T06:01:47.666650",
+      "2025-11-19T06:06:43.952135",
+      "2025-11-19T19:07:29.470263",
+      "2025-11-19T19:13:00.786416",
+      "2025-11-21T06:06:08.477792"
+    ],
+    "fission": [
+      "2025-11-02T06:26:54.052334",
+      "2025-11-08T17:23:41.543206",
+      "2025-11-18T07:02:08.489019",
+      "2025-11-18T07:02:08.496491",
+      "2025-11-18T07:06:15.804503",
+      "2025-11-19T06:06:43.952135",
+      "2025-11-19T19:13:00.786416"
+    ],
+    "reactor_physics": [
+      "2025-11-02T06:26:54.052334",
+      "2025-11-08T17:16:22.859398",
+      "2025-11-08T17:23:41.543206",
+      "2025-11-08T19:21:58.682763"
+    ],
+    "fusion": [
+      "2025-11-08T17:03:00.801042",
+      "2025-11-08T17:23:41.543206"
+    ],
+    "nuclear_structure": [
+      "2025-11-08T17:03:00.801042",
+      "2025-11-08T17:16:22.859398",
+      "2025-11-08T17:23:41.543206"
+    ],
+    "decay": [
+      "2025-11-08T17:23:41.543206",
+      "2025-11-09T14:52:42.778177",
+      "2025-11-19T06:01:47.651984",
+      "2025-11-19T06:01:47.666650",
+      "2025-11-19T06:06:43.933994",
+      "2025-11-19T06:06:43.952135",
+      "2025-11-21T06:06:08.448975",
+      "2025-11-21T06:06:08.477792",
+      "2025-11-21T06:11:33.773036",
+      "2025-11-21T06:11:33.799733",
+      "2025-11-21T06:52:53.417812",
+      "2025-11-21T06:52:53.431114",
+      "2025-11-21T19:16:02.017151",
+      "2025-11-21T19:16:02.030744",
+      "2025-11-21T19:20:11.768172",
+      "2025-11-21T19:20:11.792410",
+      "2025-11-21T19:24:49.741051",
+      "2025-11-21T19:24:49.772006",
+      "2025-11-22T17:48:52.284116"
+    ]
+  },
+  "created": "2025-10-31T06:10:37.600898",
+  "last_updated": "2025-11-22T17:48:52.287335"
+}

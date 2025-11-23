@@ -1,0 +1,401 @@
+[
+  {
+    "source": "mathematical_generator",
+    "title": "Semi-Empirical Mass Formula (Complete)",
+    "content": "B = a_v*A - a_s*A^(2/3) - a_c*Z²/A^(1/3) - a_a*(A-2Z)²/A + δ\n\nDerivation:\n\n            Starting from the liquid drop model:\n            \n            Volume term: B_v = a_v * A\n            Surface term: B_s = -a_s * A^(2/3)\n            Coulomb term: B_c = -a_c * Z²/A^(1/3)\n            Asymmetry term: B_a = -a_a * (A-2Z)²/A\n            Pairing term: B_p = δ\n            \n            Where:\n            - a_v = 15.8 MeV (volume coefficient)\n            - a_s = 18.3 MeV (surface coefficient)\n            - a_c = 0.714 MeV (Coulomb coefficient)\n            - a_a = 23.2 MeV (asymmetry coefficient)\n            - δ = 12 MeV/√A for even-even, -12 MeV/√A for odd-odd, 0 for odd-A\n            \n\nExample:\n\n            For U-235 (Z=92, A=235):\n            B = 15.8*235 - 18.3*235^(2/3) - 0.714*92²/235^(1/3) - 23.2*(235-184)²/235 + 12/√235\n            B = 3713 - 18.3*38.1 - 0.714*8464/6.18 - 23.2*2601/235 + 0.783\n            B = 3713 - 697 - 978 - 257 + 0.783\n            B = 1782 MeV\n            ",
+    "formulas": [
+      "B = a_v*A - a_s*A^(2/3) - a_c*Z²/A^(1/3) - a_a*(A-2Z)²/A + δ"
+    ],
+    "category": "binding_energy",
+    "domain": "nuclear_structure",
+    "keywords": [
+      "binding_energy",
+      "nuclear_structure",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162595",
+    "imported_at": "2025-11-20T07:07:25.162605"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Four-Factor Formula",
+    "content": "k_eff = η × ε × p × f\n\nDerivation:\n\n            Neutron multiplication factor:\n            \n            η (eta) = ν * σ_f / (σ_f + σ_c) = average neutrons per fission / (fission + capture)\n            ε (epsilon) = fast fission factor = (total fast fissions) / (thermal fissions)\n            p = resonance escape probability = exp(-N*I*ξ*Σ_s/Σ_a)\n            f = thermal utilization = Σ_a_fuel / Σ_a_total\n            \n            Where:\n            - ν = average neutrons per fission (~2.4 for U-235)\n            - σ_f = fission cross section\n            - σ_c = capture cross section\n            - N = number density\n            - I = resonance integral\n            - ξ = average logarithmic energy decrement\n            \n\nExample:\n\n            For U-235 thermal reactor:\n            η = 2.4 * 585 / (585 + 99) = 2.06\n            ε ≈ 1.03 (slight fast fission)\n            p ≈ 0.9 (resonance escape)\n            f ≈ 0.8 (thermal utilization)\n            \n            k_eff = 2.06 × 1.03 × 0.9 × 0.8 = 1.53\n            ",
+    "formulas": [
+      "k_eff = η × ε × p × f"
+    ],
+    "category": "criticality",
+    "domain": "reactor_physics",
+    "keywords": [
+      "criticality",
+      "reactor_physics",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162607",
+    "imported_at": "2025-11-20T07:07:25.162609"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Neutron Diffusion Equation",
+    "content": "D∇²φ - Σ_a φ + (1/k)νΣ_f φ = 0\n\nDerivation:\n\n            Starting from neutron balance:\n            \n            Rate of change = Production - Absorption - Leakage\n            \n            ∂φ/∂t = S - Σ_a φ - ∇·J\n            \n            Where J = -D∇φ (Fick's law)\n            \n            For steady state (∂φ/∂t = 0) and critical system:\n            \n            D∇²φ - Σ_a φ + S = 0\n            \n            With source S = (1/k)νΣ_f φ (fission neutrons):\n            \n            D∇²φ - Σ_a φ + (1/k)νΣ_f φ = 0\n            \n            Rearranging:\n            ∇²φ + B²φ = 0\n            \n            Where B² = (νΣ_f/k - Σ_a)/D is the material buckling\n            \n\nExample:\n\n            For spherical geometry with radius R:\n            φ(r) = A * sin(Br) / r\n            \n            Critical condition: B = π/R\n            \n            Critical radius: R_c = π/B = π√(D/(νΣ_f - Σ_a))\n            ",
+    "formulas": [
+      "D∇²φ - Σ_a φ + (1/k)νΣ_f φ = 0"
+    ],
+    "category": "neutron_transport",
+    "domain": "reactor_physics",
+    "keywords": [
+      "neutron_transport",
+      "reactor_physics",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162611",
+    "imported_at": "2025-11-20T07:07:25.162611"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Reaction Cross Section",
+    "content": "σ = (π/k²)(2J+1)/(2s+1)(2I+1) × T_l\n\nDerivation:\n\n            From quantum scattering theory:\n            \n            Partial wave expansion:\n            σ_l = (π/k²)(2l+1) |1 - S_l|²\n            \n            For nuclear reactions with spin:\n            σ = Σ_l σ_l × (2J+1)/(2s+1)(2I+1)\n            \n            Where:\n            - k = √(2mE)/ℏ (wave number)\n            - J = total angular momentum\n            - s = projectile spin\n            - I = target spin\n            - T_l = transmission coefficient = 1 - |S_l|²\n            - S_l = S-matrix element\n            \n\nExample:\n\n            For neutron capture on U-238 (I=0, s=1/2):\n            At resonance E_r = 6.67 eV:\n            \n            σ_resonance = (π/k²)(2J+1) × Γ_n Γ_γ / [(E - E_r)² + (Γ/2)²]\n            \n            With Γ_n = 1.3 meV, Γ_γ = 23 meV, Γ = 24.3 meV:\n            σ_max = (π/k²)(2J+1) × 4Γ_n Γ_γ / Γ²\n            ",
+    "formulas": [
+      "σ = (π/k²)(2J+1)/(2s+1)(2I+1) × T_l"
+    ],
+    "category": "nuclear_reactions",
+    "domain": "nuclear_reactions",
+    "keywords": [
+      "nuclear_reactions",
+      "nuclear_reactions",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162613",
+    "imported_at": "2025-11-20T07:07:25.162614"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Radioactive Decay Law",
+    "content": "N(t) = N₀ e^(-λt)\n\nDerivation:\n\n            From probability theory:\n            \n            dN/dt = -λN\n            \n            Solving the differential equation:\n            ∫ dN/N = -λ ∫ dt\n            ln(N) = -λt + C\n            N(t) = N₀ e^(-λt)\n            \n            Where:\n            - λ = decay constant = ln(2)/T_1/2\n            - T_1/2 = half-life\n            - Activity A(t) = λN(t) = λN₀ e^(-λt)\n            \n\nExample:\n\n            For U-238 (T_1/2 = 4.47×10⁹ years):\n            λ = ln(2) / (4.47×10⁹ × 365.25 × 24 × 3600) = 4.92×10⁻¹⁸ s⁻¹\n            \n            After 1 billion years:\n            N(10⁹) = N₀ e^(-4.92×10⁻¹⁸ × 10⁹ × 365.25 × 24 × 3600)\n            N(10⁹) = N₀ e^(-0.155) = 0.856 N₀\n            ",
+    "formulas": [
+      "N(t) = N₀ e^(-λt)"
+    ],
+    "category": "decay",
+    "domain": "decay_processes",
+    "keywords": [
+      "decay",
+      "decay_processes",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162616",
+    "imported_at": "2025-11-20T07:07:25.162617"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Time-Dependent Schrödinger Equation",
+    "content": "iℏ ∂ψ/∂t = Ĥψ\n\nDerivation:\n\n            From de Broglie hypothesis: p = ℏk, E = ℏω\n            \n            Wave function: ψ(x,t) = A exp(i(kx - ωt))\n            \n            Operators:\n            p̂ = -iℏ∇, Ê = iℏ∂/∂t\n            \n            Energy operator: Ĥ = p̂²/(2m) + V(x) = -ℏ²/(2m)∇² + V(x)\n            \n            Substituting: iℏ ∂ψ/∂t = Ĥψ\n            \n            For stationary states: ψ(x,t) = φ(x)e^(-iEt/ℏ)\n            \n            Time-independent form: Ĥφ = Eφ\n            \n\nExample:\n\n            For hydrogen atom (V(r) = -e²/(4πε₀r)):\n            \n            Ĥ = -ℏ²/(2m)∇² - e²/(4πε₀r)\n            \n            Eigenvalues: E_n = -13.6 eV / n²\n            \n            Ground state (n=1): E₁ = -13.6 eV\n            ",
+    "formulas": [
+      "iℏ ∂ψ/∂t = Ĥψ"
+    ],
+    "category": "quantum_mechanics",
+    "domain": "quantum_mechanics",
+    "keywords": [
+      "quantum_mechanics",
+      "quantum_mechanics",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162618",
+    "imported_at": "2025-11-20T07:07:25.162619"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Heisenberg Uncertainty Principle",
+    "content": "Δx · Δp ≥ ℏ/2\n\nDerivation:\n\n            From commutation relation: [x̂, p̂] = iℏ\n            \n            For any two operators: ΔA · ΔB ≥ |⟨[A,B]⟩|/2\n            \n            Therefore: Δx · Δp ≥ ℏ/2\n            \n            Similarly: ΔE · Δt ≥ ℏ/2\n            \n            This is fundamental - not a measurement limitation but a property of quantum systems\n            \n\nExample:\n\n            For electron in atom (Δx ≈ 0.1 nm):\n            Δp ≥ ℏ/(2Δx) = 1.05×10⁻³⁴ / (2 × 10⁻¹⁰) = 5.25×10⁻²⁵ kg·m/s\n            \n            Δv = Δp/m = 5.25×10⁻²⁵ / 9.11×10⁻³¹ = 5.76×10⁵ m/s\n            ",
+    "formulas": [
+      "Δx · Δp ≥ ℏ/2"
+    ],
+    "category": "quantum_mechanics",
+    "domain": "quantum_mechanics",
+    "keywords": [
+      "quantum_mechanics",
+      "quantum_mechanics",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162620",
+    "imported_at": "2025-11-20T07:07:25.162621"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Quantum Tunneling Probability",
+    "content": "T = exp(-2∫_{x1}^{x2} √(2m(V(x)-E))/ℏ dx)\n\nDerivation:\n\n            For potential barrier V(x) > E:\n            \n            In classically forbidden region, wave function:\n            ψ(x) = A exp(-κx) + B exp(κx)\n            \n            Where κ = √(2m(V-E))/ℏ\n            \n            Transmission coefficient:\n            T = |t|² = exp(-2κa) for rectangular barrier of width a\n            \n            For general barrier:\n            T ≈ exp(-2∫_{x1}^{x2} κ(x) dx)\n            \n\nExample:\n\n            For alpha decay of U-238:\n            Barrier height V₀ ≈ 30 MeV, Q-value ≈ 4.27 MeV\n            \n            κ = √(2m_α(V₀ - Q))/ℏ = √(2 × 6.64×10⁻²⁷ × 25.73×10⁶ × 1.6×10⁻¹⁹) / 1.05×10⁻³⁴\n            κ = 1.57×10¹⁵ m⁻¹\n            \n            For barrier width a ≈ 10⁻¹⁴ m:\n            T = exp(-2 × 1.57×10¹⁵ × 10⁻¹⁴) = exp(-31.4) ≈ 2×10⁻¹⁴\n            ",
+    "formulas": [
+      "T = exp(-2∫_{x1}^{x2} √(2m(V(x)-E))/ℏ dx)"
+    ],
+    "category": "quantum_mechanics",
+    "domain": "quantum_mechanics",
+    "keywords": [
+      "quantum_mechanics",
+      "quantum_mechanics",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162623",
+    "imported_at": "2025-11-20T07:07:25.162623"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Angular Momentum Operators",
+    "content": "[L̂_i, L̂_j] = iℏε_{ijk} L̂_k\n\nDerivation:\n\n            Angular momentum: L = r × p\n            \n            Quantum operators:\n            L̂_x = -iℏ(y∂/∂z - z∂/∂y)\n            L̂_y = -iℏ(z∂/∂x - x∂/∂z)\n            L̂_z = -iℏ(x∂/∂y - y∂/∂x)\n            \n            Commutation relations:\n            [L̂_x, L̂_y] = iℏL̂_z\n            [L̂_y, L̂_z] = iℏL̂_x\n            [L̂_z, L̂_x] = iℏL̂_y\n            \n            General form: [L̂_i, L̂_j] = iℏε_{ijk} L̂_k\n            \n            Eigenvalues: L² = ℏ²l(l+1), L_z = ℏm\n            \n\nExample:\n\n            For p-orbital (l=1):\n            L² = ℏ² × 1 × 2 = 2ℏ²\n            L_z = -ℏ, 0, or +ℏ (m = -1, 0, 1)\n            ",
+    "formulas": [
+      "[L̂_i, L̂_j] = iℏε_{ijk} L̂_k"
+    ],
+    "category": "quantum_mechanics",
+    "domain": "quantum_mechanics",
+    "keywords": [
+      "quantum_mechanics",
+      "quantum_mechanics",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162625",
+    "imported_at": "2025-11-20T07:07:25.162626"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "QCD Lagrangian",
+    "content": "L_QCD = ψ̄(iγ^μD_μ - m)ψ - (1/4)G^a_{μν}G^{aμν}\n\nDerivation:\n\n            Quantum Chromodynamics describes strong interactions:\n            \n            Covariant derivative: D_μ = ∂_μ + igA^a_μT^a\n            \n            Field strength tensor:\n            G^a_{μν} = ∂_μA^a_ν - ∂_νA^a_μ + gf^{abc}A^b_μA^c_ν\n            \n            Where:\n            - g = strong coupling constant\n            - T^a = SU(3) generators (Gell-Mann matrices)\n            - f^{abc} = structure constants\n            - A^a_μ = gluon fields\n            \n            The Lagrangian includes:\n            1. Quark kinetic and mass terms\n            2. Gluon kinetic term\n            3. Self-interactions (3-gluon, 4-gluon vertices)\n            \n\nExample:\n\n            At high energies (Q² >> Λ²_QCD):\n            α_s(Q²) = 12π / ((33-2n_f)ln(Q²/Λ²_QCD))\n            \n            Where n_f = number of flavors, Λ_QCD ≈ 200 MeV\n            ",
+    "formulas": [
+      "L_QCD = ψ̄(iγ^μD_μ - m)ψ - (1/4)G^a_{μν}G^{aμν}"
+    ],
+    "category": "quantum_field_theory",
+    "domain": "quantum_field_theory",
+    "keywords": [
+      "quantum_field_theory",
+      "quantum_field_theory",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162627",
+    "imported_at": "2025-11-20T07:07:25.162628"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Nuclear Force from Pion Exchange",
+    "content": "V(r) = (g²/4π)(e^(-m_πr)/r)\n\nDerivation:\n\n            From Yukawa potential (exchange of massive particle):\n            \n            V(r) = -g²/(4π) × e^(-mr)/r\n            \n            For pion exchange (m_π ≈ 140 MeV/c²):\n            V(r) = (g²/4π)(e^(-m_πr)/r)\n            \n            Where g = pion-nucleon coupling constant ≈ 13.5\n            \n            Range: R = 1/m_π ≈ 1.4 fm\n            \n            This gives the long-range part of nuclear force\n            \n\nExample:\n\n            At r = 1 fm:\n            V(1 fm) = (13.5²/4π) × e^(-140×1.4/197) / 1\n            V(1 fm) = 14.5 × e^(-0.995) ≈ 5.4 MeV\n            ",
+    "formulas": [
+      "V(r) = (g²/4π)(e^(-m_πr)/r)"
+    ],
+    "category": "quantum_field_theory",
+    "domain": "quantum_field_theory",
+    "keywords": [
+      "quantum_field_theory",
+      "quantum_field_theory",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162629",
+    "imported_at": "2025-11-20T07:07:25.162630"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Fission Energy Release",
+    "content": "Q_fission = (M_parent - ΣM_products)c²\n\nDerivation:\n\n            From mass-energy equivalence E = mc²:\n            \n            Q = (m_initial - m_final)c²\n            \n            For fission: U-235 + n → fragments + neutrons\n            \n            Q = [m(U-235) + m(n) - Σm(fragments) - Σm(neutrons)]c²\n            \n            Typical: Q ≈ 200 MeV per fission\n            \n            Energy distribution:\n            - Kinetic energy of fragments: ~165 MeV\n            - Neutron kinetic energy: ~5 MeV\n            - Prompt gamma rays: ~7 MeV\n            - Beta decay: ~7 MeV\n            - Neutrino energy: ~12 MeV (not recoverable)\n            \n\nExample:\n\n            For U-235 fission:\n            m(U-235) = 235.0439299 u\n            m(n) = 1.0086649 u\n            m(Ba-141) = 140.914411 u\n            m(Kr-92) = 91.926156 u\n            m(3n) = 3.0259947 u\n            \n            Q = (236.0525948 - 234.8665617) × 931.494 MeV/u\n            Q = 1.1860331 × 931.494 = 1105 MeV\n            \n            But actual Q ≈ 200 MeV (difference due to excited states)\n            ",
+    "formulas": [
+      "Q_fission = (M_parent - ΣM_products)c²"
+    ],
+    "category": "fission",
+    "domain": "nuclear_reactions",
+    "keywords": [
+      "fission",
+      "nuclear_reactions",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162632",
+    "imported_at": "2025-11-20T07:07:25.162633"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Neutron Flux",
+    "content": "φ = nv\n\nDerivation:\n\n            Neutron flux: φ = neutron density × velocity\n            \n            Reaction rate: R = φΣ = nvΣ\n            \n            Where:\n            - n = neutron density (neutrons/cm³)\n            - v = neutron velocity (cm/s)\n            - Σ = macroscopic cross section (cm⁻¹)\n            - φ = flux (neutrons/cm²/s)\n            \n            For thermal neutrons (E = 0.025 eV):\n            v = √(2E/m) = √(2 × 0.025 × 1.6×10⁻¹⁹ / 1.67×10⁻²⁷)\n            v = 2.2×10⁵ cm/s\n            \n\nExample:\n\n            In reactor core:\n            n = 10¹⁴ neutrons/cm³\n            v = 2.2×10⁵ cm/s (thermal)\n            \n            φ = 10¹⁴ × 2.2×10⁵ = 2.2×10¹⁹ neutrons/cm²/s\n            \n            For U-235 (σ_f = 585 barns):\n            Σ_f = N × σ_f = 0.048 × 10²⁴ × 585×10⁻²⁴ = 28.08 cm⁻¹\n            \n            Fission rate: R = φΣ_f = 2.2×10¹⁹ × 28.08 = 6.18×10²⁰ fissions/cm³/s\n            ",
+    "formulas": [
+      "φ = nv"
+    ],
+    "category": "neutron_physics",
+    "domain": "reactor_physics",
+    "keywords": [
+      "neutron_physics",
+      "reactor_physics",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162634",
+    "imported_at": "2025-11-20T07:07:25.162635"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Beta Decay Energy Spectrum",
+    "content": "N(E) dE = (G²|M|²/2π³ℏ⁷c³) p_e E_e (E₀ - E_e)² F(Z,E_e) dE\n\nDerivation:\n\n            From Fermi's Golden Rule:\n            \n            Transition rate: λ = (2π/ℏ)|M|² ρ(E)\n            \n            For beta decay: n → p + e⁻ + ν̄\n            \n            Phase space factor:\n            ρ(E) ∝ p_e E_e (E₀ - E_e)²\n            \n            With Fermi function F(Z,E_e) for Coulomb correction:\n            \n            N(E) dE = (G²|M|²/2π³ℏ⁷c³) p_e E_e (E₀ - E_e)² F(Z,E_e) dE\n            \n            Where:\n            - G = Fermi coupling constant\n            - |M|² = nuclear matrix element\n            - E₀ = maximum beta energy (Q-value)\n            - p_e = electron momentum\n            \n\nExample:\n\n            For C-14 beta decay (Q = 156 keV):\n            Maximum energy: E_max = 156 keV\n            \n            Average energy: ⟨E⟩ ≈ E_max/3 = 52 keV\n            \n            Half-life: T_1/2 = 5730 years\n            ",
+    "formulas": [
+      "N(E) dE = (G²|M|²/2π³ℏ⁷c³) p_e E_e (E₀ - E_e)² F(Z,E_e) dE"
+    ],
+    "category": "decay",
+    "domain": "decay_processes",
+    "keywords": [
+      "decay",
+      "decay_processes",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162636",
+    "imported_at": "2025-11-20T07:07:25.162637"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Differential Scattering Cross Section",
+    "content": "dσ/dΩ = |f(θ)|²\n\nDerivation:\n\n            Scattering amplitude:\n            f(θ) = (1/2ik) Σ_l (2l+1)(e^(2iδ_l) - 1)P_l(cos θ)\n            \n            Differential cross section:\n            dσ/dΩ = |f(θ)|²\n            \n            Total cross section (optical theorem):\n            σ_total = (4π/k) Im[f(0)] = (4π/k²) Σ_l (2l+1) sin²(δ_l)\n            \n            Elastic cross section:\n            σ_elastic = (4π/k²) Σ_l (2l+1) |e^(2iδ_l) - 1|²/4\n            \n            Inelastic cross section:\n            σ_inelastic = (π/k²) Σ_l (2l+1)(1 - |S_l|²)\n            \n\nExample:\n\n            For s-wave scattering (l=0):\n            f(θ) = (e^(2iδ₀) - 1)/(2ik) = sin(δ₀)e^(iδ₀)/k\n            \n            dσ/dΩ = sin²(δ₀)/k² (isotropic)\n            \n            σ_total = 4π sin²(δ₀)/k²\n            ",
+    "formulas": [
+      "dσ/dΩ = |f(θ)|²"
+    ],
+    "category": "scattering",
+    "domain": "nuclear_reactions",
+    "keywords": [
+      "scattering",
+      "nuclear_reactions",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162638",
+    "imported_at": "2025-11-20T07:07:25.162639"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Path Integral Formulation",
+    "content": "K(x',t';x,t) = ∫D[x(t)] exp(iS[x(t)]/ℏ)\n\nDerivation:\n\n            Feynman's path integral:\n            \n            Propagator: K(x',t';x,t) = ⟨x'|e^(-iĤ(t'-t)/ℏ)|x⟩\n            \n            Discretizing time: t₀, t₁, ..., t_N\n            \n            K = lim_{N→∞} ∫...∫ dx₁...dx_{N-1} Π_{i=0}^{N-1} ⟨x_{i+1}|e^(-iĤε/ℏ)|x_i⟩\n            \n            Where ε = (t'-t)/N\n            \n            In the limit: K = ∫D[x(t)] exp(iS/ℏ)\n            \n            Action: S = ∫_{t}^{t'} L(x, ẋ, t) dt\n            \n            This gives quantum amplitude as sum over all paths\n            \n\nExample:\n\n            For free particle (L = mẋ²/2):\n            K(x',t';x,t) = √(m/2πiℏ(t'-t)) exp(im(x'-x)²/2ℏ(t'-t))\n            ",
+    "formulas": [
+      "K(x',t';x,t) = ∫D[x(t)] exp(iS[x(t)]/ℏ)"
+    ],
+    "category": "quantum_mechanics",
+    "domain": "quantum_mechanics",
+    "keywords": [
+      "quantum_mechanics",
+      "quantum_mechanics",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162642",
+    "imported_at": "2025-11-20T07:07:25.162643"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Density Matrix",
+    "content": "ρ = Σ_i p_i |ψ_i⟩⟨ψ_i|\n\nDerivation:\n\n            For mixed state (statistical ensemble):\n            \n            Density operator: ρ = Σ_i p_i |ψ_i⟩⟨ψ_i|\n            \n            Where p_i = probability of state |ψ_i⟩\n            \n            Properties:\n            - Tr(ρ) = 1 (normalization)\n            - ρ = ρ† (Hermitian)\n            - Tr(ρ²) ≤ 1 (equality for pure states)\n            \n            Expectation value: ⟨A⟩ = Tr(ρA)\n            \n            Time evolution: iℏ dρ/dt = [Ĥ, ρ]\n            \n\nExample:\n\n            For thermal equilibrium:\n            ρ = exp(-Ĥ/kT) / Tr(exp(-Ĥ/kT))\n            \n            This is the canonical ensemble density matrix\n            ",
+    "formulas": [
+      "ρ = Σ_i p_i |ψ_i⟩⟨ψ_i|"
+    ],
+    "category": "quantum_mechanics",
+    "domain": "quantum_mechanics",
+    "keywords": [
+      "quantum_mechanics",
+      "quantum_mechanics",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162644",
+    "imported_at": "2025-11-20T07:07:25.162645"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Time-Dependent Perturbation Theory",
+    "content": "c_f(t) = -(i/ℏ)∫₀ᵗ ⟨f|H'(t')|i⟩ e^(iω_fi t') dt'\n\nDerivation:\n\n            For perturbation H'(t):\n            \n            Wave function: |ψ(t)⟩ = Σ_n c_n(t) e^(-iE_n t/ℏ)|n⟩\n            \n            Substituting into Schrödinger equation:\n            \n            iℏ dc_f/dt = Σ_n ⟨f|H'|n⟩ c_n e^(iω_fn t)\n            \n            First order (c_n ≈ δ_ni):\n            c_f(t) = -(i/ℏ)∫₀ᵗ ⟨f|H'(t')|i⟩ e^(iω_fi t') dt'\n            \n            Transition probability: P_{i→f} = |c_f(t)|²\n            \n            Where ω_fi = (E_f - E_i)/ℏ\n            \n\nExample:\n\n            For constant perturbation H'(t) = H':\n            c_f(t) = -(i/ℏ)⟨f|H'|i⟩ ∫₀ᵗ e^(iω_fi t') dt'\n            c_f(t) = -(i/ℏ)⟨f|H'|i⟩ (e^(iω_fi t) - 1)/(iω_fi)\n            \n            P_{i→f} = |⟨f|H'|i⟩|² sin²(ω_fi t/2)/(ℏ²ω_fi²)\n            ",
+    "formulas": [
+      "c_f(t) = -(i/ℏ)∫₀ᵗ ⟨f|H'(t')|i⟩ e^(iω_fi t') dt'"
+    ],
+    "category": "quantum_mechanics",
+    "domain": "quantum_mechanics",
+    "keywords": [
+      "quantum_mechanics",
+      "quantum_mechanics",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162647",
+    "imported_at": "2025-11-20T07:07:25.162648"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Complete Binding Energy Calculation for Fe-56",
+    "content": "B = a_v*A - a_s*A^(2/3) - a_c*Z²/A^(1/3) - a_a*(A-2Z)²/A + δ\n\nDerivation:\n\n\nExample:\n\n            For Fe-56 (Z=26, A=56, even-even):\n            \n            Step 1: Calculate each term\n            Volume term: B_v = a_v × A = 15.8 × 56 = 884.8 MeV\n            \n            Surface term: B_s = -a_s × A^(2/3) = -18.3 × 56^(2/3)\n            56^(2/3) = (56^(1/3))² = (3.8259)² = 14.637\n            B_s = -18.3 × 14.637 = -267.86 MeV\n            \n            Coulomb term: B_c = -a_c × Z²/A^(1/3) = -0.714 × 26²/56^(1/3)\n            56^(1/3) = 3.8259\n            B_c = -0.714 × 676/3.8259 = -0.714 × 176.7 = -126.16 MeV\n            \n            Asymmetry term: B_a = -a_a × (A-2Z)²/A = -23.2 × (56-52)²/56\n            B_a = -23.2 × 16/56 = -23.2 × 0.2857 = -6.63 MeV\n            \n            Pairing term: δ = 12/√A = 12/√56 = 12/7.483 = 1.60 MeV (even-even)\n            \n            Step 2: Sum all terms\n            B = 884.8 - 267.86 - 126.16 - 6.63 + 1.60\n            B = 485.75 MeV\n            \n            Step 3: Binding energy per nucleon\n            B/A = 485.75/56 = 8.67 MeV/nucleon\n            \n            This matches the experimental value closely!\n            ",
+    "formulas": [
+      "B = a_v*A - a_s*A^(2/3) - a_c*Z²/A^(1/3) - a_a*(A-2Z)²/A + δ"
+    ],
+    "category": "binding_energy",
+    "domain": "nuclear_structure",
+    "keywords": [
+      "binding_energy",
+      "nuclear_structure",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162649",
+    "imported_at": "2025-11-20T07:07:25.162650"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Critical Mass Calculation for U-235",
+    "content": "M_critical = (4π/3)ρR_c³\n\nDerivation:\n\n\nExample:\n\n            For U-235 sphere:\n            \n            Step 1: Calculate material buckling\n            B²_m = (νΣ_f - Σ_a)/D\n            \n            Given:\n            - ν = 2.43 (average neutrons per fission)\n            - Σ_f = 0.366 cm⁻¹ (macroscopic fission cross section)\n            - Σ_a = 0.153 cm⁻¹ (macroscopic absorption cross section)\n            - D = 0.9 cm (diffusion coefficient)\n            \n            B²_m = (2.43 × 0.366 - 0.153)/0.9\n            B²_m = (0.889 - 0.153)/0.9 = 0.736/0.9 = 0.818 cm⁻²\n            \n            Step 2: Calculate critical radius\n            For sphere: B²_g = (π/R)² (geometric buckling)\n            \n            At criticality: B²_m = B²_g\n            R_c = π/√B²_m = π/√0.818 = 3.1416/0.904 = 3.47 cm\n            \n            Step 3: Calculate critical mass\n            Density: ρ = 18.7 g/cm³\n            M_critical = (4π/3) × 18.7 × (3.47)³\n            M_critical = (4π/3) × 18.7 × 41.75\n            M_critical = 3267 g = 3.27 kg\n            \n            With reflector: M_critical ≈ 15-20 kg\n            ",
+    "formulas": [
+      "M_critical = (4π/3)ρR_c³"
+    ],
+    "category": "criticality",
+    "domain": "reactor_physics",
+    "keywords": [
+      "criticality",
+      "reactor_physics",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162655",
+    "imported_at": "2025-11-20T07:07:25.162656"
+  },
+  {
+    "source": "mathematical_generator",
+    "title": "Alpha Decay Tunneling Probability",
+    "content": "T = exp(-2∫√(2m(V-E))/ℏ dx)\n\nDerivation:\n\n\nExample:\n\n            For U-238 alpha decay:\n            \n            Step 1: Parameters\n            Q-value: Q = 4.27 MeV\n            Barrier height: V₀ ≈ 30 MeV (Coulomb barrier)\n            Alpha particle mass: m_α = 6.64×10⁻²⁷ kg\n            \n            Step 2: Calculate κ\n            κ = √(2m(V₀ - Q))/ℏ\n            κ = √(2 × 6.64×10⁻²⁷ × (30-4.27)×10⁶ × 1.6×10⁻¹⁹) / 1.05×10⁻³⁴\n            κ = √(2 × 6.64×10⁻²⁷ × 25.73×10⁶ × 1.6×10⁻¹⁹) / 1.05×10⁻³⁴\n            κ = √(5.47×10⁻³⁸) / 1.05×10⁻³⁴\n            κ = 2.34×10⁻¹⁹ / 1.05×10⁻³⁴ = 2.23×10¹⁵ m⁻¹\n            \n            Step 3: Estimate barrier width\n            Nuclear radius: R₁ = 1.2 × 238^(1/3) = 7.4 fm\n            Turning point: R₂ = 2Ze²/(4πε₀Q) = 2×92×1.44/(4.27) = 62 fm\n            Width: a = R₂ - R₁ ≈ 55 fm = 55×10⁻¹⁵ m\n            \n            Step 4: Calculate transmission\n            T = exp(-2κa) = exp(-2 × 2.23×10¹⁵ × 55×10⁻¹⁵)\n            T = exp(-245.3) = 2.2×10⁻¹⁰⁷\n            \n            Step 5: Decay constant\n            Attempt frequency: f ≈ 10²¹ s⁻¹\n            λ = f × T = 10²¹ × 2.2×10⁻¹⁰⁷ = 2.2×10⁻⁸⁶ s⁻¹\n            \n            Half-life: T_1/2 = ln(2)/λ = 0.693/2.2×10⁻⁸⁶ = 3.15×10⁸⁵ s ≈ 10¹⁸ years\n            \n            (Actual T_1/2 = 4.47×10⁹ years - Gamow factor improves this)\n            ",
+    "formulas": [
+      "T = exp(-2∫√(2m(V-E))/ℏ dx)"
+    ],
+    "category": "quantum_mechanics",
+    "domain": "quantum_mechanics",
+    "keywords": [
+      "quantum_mechanics",
+      "quantum_mechanics",
+      "mathematics",
+      "formula",
+      "derivation"
+    ],
+    "publication_date": "2025-11-20T07:07:25.162657",
+    "imported_at": "2025-11-20T07:07:25.162658"
+  }
+]
